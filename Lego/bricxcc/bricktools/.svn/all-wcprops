@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/bricxcc/!svn/ver/408/bricktools
+END
+link.pas
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/57/bricktools/link.pas
+END
+NQCStream.pas
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/57/bricktools/NQCStream.pas
+END
+RcxLog.pas
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/57/bricktools/RcxLog.pas
+END
+NQCSerialWin.pas
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/57/bricktools/NQCSerialWin.pas
+END
+uPSI_uSpirit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/192/bricktools/uPSI_uSpirit.pas
+END
+FakeSpirit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/369/bricktools/FakeSpirit.pas
+END
+SynTerm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/57/bricktools/SynTerm.pas
+END
+uPSI_brick_common.pas
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/57/bricktools/uPSI_brick_common.pas
+END
+posixserial.pas
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/57/bricktools/posixserial.pas
+END
+CPDReg.pas
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/57/bricktools/CPDReg.pas
+END
+libimplibusb.a
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/1/bricktools/libimplibusb.a
+END
+scout_def.pas
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/57/bricktools/scout_def.pas
+END
+fantomfpc.pas
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bricxcc/!svn/ver/238/bricktools/fantomfpc.pas
+END
+fantomosx.pas
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bricxcc/!svn/ver/173/bricktools/fantomosx.pas
+END
+uPSI_FantomSpirit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/181/bricktools/uPSI_FantomSpirit.pas
+END
+rcx_cmd.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/57/bricktools/rcx_cmd.pas
+END
+ComDrv32.dcr
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/1/bricktools/ComDrv32.dcr
+END
+FantomDefs.pas
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/148/bricktools/FantomDefs.pas
+END
+uSpirit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/369/bricktools/uSpirit.pas
+END
+libnxt.pas
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/57/bricktools/libnxt.pas
+END
+uPSI_FakeSpirit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/226/bricktools/uPSI_FakeSpirit.pas
+END
+srecord.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/57/bricktools/srecord.pas
+END
+brick_common.pas
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/192/bricktools/brick_common.pas
+END
+rcx_pipe.pas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/57/bricktools/rcx_pipe.pas
+END
+rcx_link.pas
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/192/bricktools/rcx_link.pas
+END
+CpDrv.pas
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/1/bricktools/CpDrv.pas
+END
+FantomSpirit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/408/bricktools/FantomSpirit.pas
+END
+libusb.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/148/bricktools/libusb.pas
+END
+FANTOM_CONST.INC
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/57/bricktools/FANTOM_CONST.INC
+END
+NQCSerial.pas
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/57/bricktools/NQCSerial.pas
+END
+FANTOM.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/218/bricktools/FANTOM.pas
+END
+rcx_constants.pas
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/131/bricktools/rcx_constants.pas
+END
+TOWERAPI.PAS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/183/bricktools/TOWERAPI.PAS
+END

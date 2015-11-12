@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 85
+NBCCommonData.pas
+NXCDefsData.pas
+NXTDefsData.pas
+doxygen
+nbc_preproc.inc
+nbcdoxygen
+
+END

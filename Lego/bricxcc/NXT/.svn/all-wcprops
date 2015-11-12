@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svnroot/bricxcc/!svn/ver/432/NXT
+END
+history.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/432/NXT/history.txt
+END
+NXCDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/428/NXT/NXCDefs.h
+END
+uAbout.pas
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/58/NXT/uAbout.pas
+END
+uNBCCommon.pas
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/330/NXT/uNBCCommon.pas
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bricxcc/!svn/ver/427/NXT/Doxyfile
+END
+ExpTest.res
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/1/NXT/ExpTest.res
+END
+mkdata.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/376/NXT/mkdata.dpr
+END
+NBCAutoLib.dof
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/NXT/NBCAutoLib.dof
+END
+uNBCInterface.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/419/NXT/uNBCInterface.pas
+END
+nbcmac386.mak
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/419/NXT/nbcmac386.mak
+END
+uPreprocess.pas
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/407/NXT/uPreprocess.pas
+END
+nbc.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/381/NXT/nbc.cfg
+END
+uAbout.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bricxcc/!svn/ver/1/NXT/uAbout.dfm
+END
+NBCDoxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/427/NXT/NBCDoxyfile
+END
+nbc.bpg
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/381/NXT/nbc.bpg
+END
+uNXTConstants.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/355/NXT/uNXTConstants.pas
+END
+uNXCComp.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/423/NXT/uNXCComp.pas
+END
+uRPGComp.pas
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/58/NXT/uRPGComp.pas
+END
+Parser10.pas
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/58/NXT/Parser10.pas
+END
+NBCAutoLib.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/NXT/NBCAutoLib.cfg
+END
+RXEDumper.dof
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/140/NXT/RXEDumper.dof
+END
+uRIC.pas
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/86/NXT/uRIC.pas
+END
+nbc.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/378/NXT/nbc.dpr
+END
+nbcmac.mak
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/419/NXT/nbcmac.mak
+END
+nbcdelphi.mak
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/419/NXT/nbcdelphi.mak
+END
+NBCAutoLib.tlb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/NXT/NBCAutoLib.tlb
+END
+RXEDumpImages.res
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/1/NXT/RXEDumpImages.res
+END
+urxedumplaz.pas
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/58/NXT/urxedumplaz.pas
+END
+ExpTest.dof
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/1/NXT/ExpTest.dof
+END
+uRICComp.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/314/NXT/uRICComp.pas
+END
+NBCAutoLib_TLB.pas
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/1/NXT/NBCAutoLib_TLB.pas
+END
+NBCAutoLib.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/58/NXT/NBCAutoLib.dpr
+END
+RXEDumper.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/140/NXT/RXEDumper.cfg
+END
+buildsrc.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/127/NXT/buildsrc.bat
+END
+nbcunix.mak
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/419/NXT/nbcunix.mak
+END
+RXEDumpImages.rc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/1/NXT/RXEDumpImages.rc
+END
+nbc.res
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/419/NXT/nbc.res
+END
+ExpTest.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/1/NXT/ExpTest.cfg
+END
+NBCAPIDocs.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/431/NXT/NBCAPIDocs.h
+END
+uRxeDump.pas
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/58/NXT/uRxeDump.pas
+END
+nbcwin32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/419/NXT/nbcwin32.mak
+END
+urxedumplaz.lfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/NXT/urxedumplaz.lfm
+END
+uNXTClasses.pas
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/423/NXT/uNXTClasses.pas
+END
+rxedumper.lpi
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/1/NXT/rxedumper.lpi
+END
+nbcwincearm.mak
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/419/NXT/nbcwincearm.mak
+END
+RXEDumper.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/192/NXT/RXEDumper.dpr
+END
+nbc.1
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/bricxcc/!svn/ver/331/NXT/nbc.1
+END
+NXTDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/428/NXT/NXTDefs.h
+END
+P10Build.pas
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/83/NXT/P10Build.pas
+END
+uExpTest.pas
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/58/NXT/uExpTest.pas
+END
+NumGrid2.ric
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/1/NXT/NumGrid2.ric
+END
+rxedumper.lpr
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/1/NXT/rxedumper.lpr
+END
+mkdata.dof
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/186/NXT/mkdata.dof
+END
+nxtcom.zip
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/180/NXT/nxtcom.zip
+END
+nbc.drc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/378/NXT/nbc.drc
+END
+NBCAutoLib.res
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/NXT/NBCAutoLib.res
+END
+uRxeDump.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/1/NXT/uRxeDump.dfm
+END
+urxedumplaz.lrs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/NXT/urxedumplaz.lrs
+END
+nxtcom_scripts.zip
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/180/NXT/nxtcom_scripts.zip
+END
+ExpTest.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/58/NXT/ExpTest.dpr
+END
+NXCAPIDocs.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/429/NXT/NXCAPIDocs.h
+END
+NBC.LPI
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/100/NXT/NBC.LPI
+END
+uExpTest.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/1/NXT/uExpTest.dfm
+END
+mkdata.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/377/NXT/mkdata.cfg
+END
+NBCCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/429/NXT/NBCCommon.h
+END
+uNBCAuto.pas
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/58/NXT/uNBCAuto.pas
+END
+RXEDumper.res
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/1/NXT/RXEDumper.res
+END
+nbc.dof
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/419/NXT/nbc.dof
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/129/NXT/readme.txt
+END
+uProgram.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/238/NXT/uProgram.pas
+END
+nxc_help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/397/NXT/nxc_help.txt
+END

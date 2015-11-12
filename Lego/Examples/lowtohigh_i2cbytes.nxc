@@ -1,0 +1,22 @@
+#define PCF8574 0x40
+#define port IN_1
+
+byte bufout[]={PCF8574, 0xff};
+byte bufin[]={0};
+int nbytes=1;
+int i;
+long time0;
+
+task main()
+{
+  SetSensorLowspeed (port);
+  time0 = CurrentTick ();
+  for(i=0; i<1000; i++)
+  {
+    I2CBytes(port, bufout, nbytes, bufin))
+    bufout[1] = (bufin[0]<<4) + 0x0f;
+  }
+  NumOut(0,0,CurrentTick ()-time0);
+  PlayTone (400, 100);
+  Wait(3000);
+}

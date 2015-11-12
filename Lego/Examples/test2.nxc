@@ -1,0 +1,45 @@
+int x, y, z;
+bool p, d, q;
+mutex myMutex;
+char c;
+unsigned short s;
+
+sub Weird()
+{
+  NumOut(0, 30, z);
+}
+
+task main()
+{
+  x=-130;
+//  z = 10;
+  z = 40+(10-16)/3;
+  while (x < 10)
+  {
+/*
+    z += 2;
+*/
+    Weird();
+    z -= 4;
+    if (0) { continue; }
+    Wait(500);
+    x++;
+  }
+
+  ResetScreen();
+
+  s = 500;
+  Wait(s+500);
+
+  for (z=0; z < 10; z++)
+  {
+    Weird();
+    if (z < 0) {
+      break;
+    }
+    Wait(500);
+  }
+
+  Wait(3000);
+}
+

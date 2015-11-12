@@ -1,0 +1,8 @@
+task main()
+{
+  string msgs[] = {"please work", "testing, 1, 2, 3"};
+  string msg = "hi there";
+  byte x = StrLen(msg); // return the length of msg
+  NumOut(0, LCD_LINE6, StrLen(msgs[0]));
+  Wait(SEC_5);
+}

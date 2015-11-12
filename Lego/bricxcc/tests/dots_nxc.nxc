@@ -1,0 +1,23 @@
+#define OUT_A 0x01
+#define MyMacro(_x, ...) NumOut(_x, __VA_ARGS__)
+#define SetSleepTimeout 12314
+float value = 1.23;
+float foobar = 356;
+
+#include "test.h"
+
+task main()
+{
+  int angle = 144;
+  unsigned int factor = 12;
+  angle = angle / factor;
+  value += 3.14156;
+  MyMacro(0, LCD_LINE1, value, true);
+  NumOut(0, LCD_LINE2, value);
+  
+//  SetSleepTimeout(13);
+
+loop:
+  goto loop;
+
+}

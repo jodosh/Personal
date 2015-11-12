@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/bricxcc/!svn/ver/1/png/obj
+END
+zutil.obj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/1/png/obj/zutil.obj
+END
+gzio.obj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/1/png/obj/gzio.obj
+END
+inffast.obj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/png/obj/inffast.obj
+END
+compress.obj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/1/png/obj/compress.obj
+END
+adler32.obj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/png/obj/adler32.obj
+END
+crc32.obj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/1/png/obj/crc32.obj
+END
+infback.obj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/png/obj/infback.obj
+END
+inftrees.obj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/1/png/obj/inftrees.obj
+END
+inflate.obj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/png/obj/inflate.obj
+END
+trees.obj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/1/png/obj/trees.obj
+END
+uncompr.obj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/png/obj/uncompr.obj
+END
+deflate.obj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/png/obj/deflate.obj
+END

@@ -1,0 +1,119 @@
+#define word unsigned int
+#define PCF8574_1 0x40
+#define PCF8574_2 0x42
+#define MAXWAIT 20
+
+word patroon;
+byte direction;
+
+void i2c_write(byte port, byte data)
+{
+  byte i2c_out[];
+  byte bytes_ready;
+  byte count;
+  byte result;
+
+  count = MAXWAIT;
+  while (true) {
+    result = LowspeedStatus(S3, bytes_ready);
+    if (result <= 0)
+      break;
+    if (count > 0) {
+      count -= 1;
+      Wait(1);
+    } else {
+      TextOut(0, 30, "status:        ");
+      NumOut(72, 30, result);
+      Wait(1000);
+      break;
+    }
+  }
+  asm {
+    arrbuild i2c_out, port, data
+  }
+  count = MAXWAIT;
+  while (true) {
+    result = LowspeedWrite(S3, 2, i2c_out);
+    if (result <=0)
+      break;
+    if (count > 0) {
+      count -= 1
+      Wait(1);
+    } else {
+       TextOut(0, 15, "error write:");
+       NumOut(72, 15, result);
+       Wait(1000);
+    }
+  }
+  bytes_ready = 0;
+  count = MAXWAIT;
+  while (true) {
+    result = LowspeedStatus(S3, bytes_ready);
+    if (result <= 0)
+      break;
+    if (count > 0) {
+      count -= 1;
+      Wait(1);
+    } else {
+      TextOut(0, 45, "status:        ");
+      NumOut(72, 45, result);
+      Wait(1000);
+      break;
+    }
+  }
+}
+
+void display_led(word pat)
+{
+  byte port;
+  byte data;
+
+  port = PCF8574_1;
+  data = (pat) ^ 0xFF;
+  i2c_write(port, data);
+
+  port = PCF8574_2;
+  data = (pat / 256) ^ 0xFF;
+  i2c_write(port, data);
+}
+
+void next_patroon()
+{
+  if (patroon == 0x8000) {
+    direction = true;
+  }
+  if (patroon == 0x0001) {
+    direction = false;
+  }
+  if (direction == false) {
+//    patroon = patroon << 1;
+    patroon = patroon * 2;
+  } else {
+//    patroon = patroon >> 1;
+    patroon = patroon / 2;
+  }
+}
+
+void main_init()
+{
+  SetSensorType(S3, SENSOR_TYPE_LOWSPEED);
+  SetSensorMode(S3, SENSOR_MODE_RAW);
+  ResetSensor(S3);
+}
+
+task main()
+{
+  main_init();
+  TextOut(0, 30, "test i2c led      ");
+  Wait(1000);
+
+  patroon = 0x0001;
+  direction = false;
+  while (true) {
+    TextOut(0, 30, "patroon:             .");
+    NumOut(72, 30, patroon);
+    Wait(40);
+    display_led(patroon);
+    next_patroon();
+  }
+}

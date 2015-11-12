@@ -1,0 +1,29 @@
+task main (){
+  int i, j;
+  string msg;
+
+  i = 0;
+  j = 1;
+  if( i && j) {
+    msg = "i&&j == true" ;
+    TextOut(0, LCD_LINE1, msg);
+  }
+  else {
+    msg = "i&&j == false" ;
+    TextOut(0, LCD_LINE1, msg);
+  }
+
+  i = 10;
+  j = 20;
+  if( (i == 20) && (j == 20) ) {
+    msg = "i==20&&j==20" ;
+    TextOut(0, LCD_LINE2, msg);
+  }
+  else {
+    msg = "i!=20||j!=20" ;
+    TextOut(0, LCD_LINE2, msg);
+  }
+
+  Wait(10000);
+}
+

@@ -1,0 +1,33 @@
+/*------------------------------------------------------------------------------
+; File          : glBoxDemo.nbc
+; Description   : A program demonstrating a 3D box...
+; Programmed by : Arno van der Vegt, avandervegt@home.nl
+;-----------------------------------------------------------------------------*/
+
+task main()
+{
+  // Initialize the 3D engine...
+  glInit();
+  // Create a cube, this is the first object which will be object id 0...
+  glCube(GL_POLYGON, 20);
+  glBox(GL_POLYGON, 20, 30, 40);
+  // Set the main view x-angle...
+  glSetAngleX(45);
+  while (true)
+  {
+    // Rotate the main view....
+    glAddToAngleY(8);
+    glAddToAngleX(4);
+    // Setup for rendering...
+    glBeginRender();
+    // translate object 1
+    glObjectAction(0, GL_TRANSLATE_X, 20);
+    glObjectAction(1, GL_TRANSLATE_X, -20);
+    // Call the object with id 0...
+    glCallObject(0);
+    glCallObject(1);
+    // Finish, clear the screen, rotate and render the called objects...
+    glFinishRender();
+    Wait(MS_20);
+  }
+}

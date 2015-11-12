@@ -1,0 +1,32 @@
+// waiting for a button press in three versions
+
+void waitForAButton(int btnToTest) {
+  switch(btnToTest) {
+    case BTN1:
+      while(ButtonState(BTN1));
+      break;
+    case BTN2:
+      while(ButtonState(BTN2));
+      break;
+    case BTN3:
+      while(ButtonState(BTN3));
+      break;
+    default:
+      while(ButtonState(BTN4));
+      break;
+  }
+}
+
+void waitForAButtonPress(int btnToTest) {
+  while(!ButtonPressed(btnToTest, true));
+}
+
+#define waitForAButtonMacro(btnToTest) \
+  while(ButtonState(btnToTest));
+
+task main() {
+  waitForAButtonMacro(BTN2);
+  waitForAButton(BTN3);
+  waitForAButtonPress(BTN4);
+}
+

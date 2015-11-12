@@ -1,0 +1,869 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/bricxcc/!svn/ver/433/tests
+END
+strtest2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/29/tests/strtest2.nxc
+END
+commabug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/417/tests/commabug.nxc
+END
+testfloat5.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/362/tests/testfloat5.nxc
+END
+1806871.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/22/tests/1806871.nxc
+END
+circle.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/82/tests/circle.nxc
+END
+strcmpbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/270/tests/strcmpbug.nxc
+END
+testsleeptimer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/42/tests/testsleeptimer.nxc
+END
+test.npg
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/66/tests/test.npg
+END
+ftest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/264/tests/ftest.txt
+END
+1788336.nbc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/22/tests/1788336.nbc
+END
+test.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/157/tests/test.nxc
+END
+tests.bat
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/77/tests/tests.bat
+END
+rotmot_test.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/6/tests/rotmot_test.nxc
+END
+testrectout.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/105/tests/testrectout.nxc
+END
+flt_arr_bug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/105/tests/flt_arr_bug.nxc
+END
+strcmntbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/406/tests/strcmntbug.nxc
+END
+udt_bug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/141/tests/udt_bug.nxc
+END
+arraybuild_bug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bricxcc/!svn/ver/105/tests/arraybuild_bug.nxc
+END
+testbool.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/39/tests/testbool.nxc
+END
+1818345.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/6/tests/1818345.nxc
+END
+ellipse.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/264/tests/ellipse.nxc
+END
+listfiles.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/258/tests/listfiles.nxc
+END
+struct_test1.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/252/tests/struct_test1.nxc
+END
+2896265.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/264/tests/2896265.nxc
+END
+long_int.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/300/tests/long_int.nxc
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/62/tests/test.h
+END
+optargs.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/253/tests/optargs.nxc
+END
+ar_test2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/6/tests/ar_test2.nxc
+END
+proc_decl_bug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/425/tests/proc_decl_bug.nxc
+END
+float_tests.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/157/tests/float_tests.nxc
+END
+negnum_test.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/77/tests/negnum_test.nxc
+END
+test.nbc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/66/tests/test.nbc
+END
+PropFont2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/82/tests/PropFont2.nxc
+END
+typdefbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/425/tests/typdefbug.nxc
+END
+ptypebug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/362/tests/ptypebug.nxc
+END
+1847345.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/6/tests/1847345.nxc
+END
+structcomma.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/276/tests/structcomma.nxc
+END
+rect_f.1.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/27/tests/rect_f.1.nxc
+END
+strbugbrace.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/392/tests/strbugbrace.nxc
+END
+strcmp.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/179/tests/strcmp.nxc
+END
+exprbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/379/tests/exprbug.nxc
+END
+inline.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/143/tests/inline.nxc
+END
+asmbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/409/tests/asmbug.nxc
+END
+rotatemotor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/290/tests/rotatemotor.nxc
+END
+struct_array_test.1.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/411/tests/struct_array_test.1.nxc
+END
+global_init_bug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/425/tests/global_init_bug.nxc
+END
+bouncy-nocompile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/153/tests/bouncy-nocompile.nxc
+END
+opt2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/147/tests/opt2.nxc
+END
+old_syntax.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/6/tests/old_syntax.nxc
+END
+implicitcast.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/147/tests/implicitcast.nxc
+END
+dupbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/290/tests/dupbug.nxc
+END
+1818403.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/264/tests/1818403.nxc
+END
+str_test2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/392/tests/str_test2.nxc
+END
+nested.nbc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/66/tests/nested.nbc
+END
+block_f.2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/7/tests/block_f.2.nxc
+END
+strindex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/425/tests/strindex.nxc
+END
+testtask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/143/tests/testtask.nxc
+END
+1806867.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/264/tests/1806867.nxc
+END
+block_f.6.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/42/tests/block_f.6.nxc
+END
+wait.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/252/tests/wait.nxc
+END
+complex_expr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/392/tests/complex_expr.nxc
+END
+struct_tests.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/258/tests/struct_tests.nxc
+END
+watchtest.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/264/tests/watchtest.nxc
+END
+fillcircle.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/179/tests/fillcircle.nxc
+END
+PropTiny.ric
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/82/tests/PropTiny.ric
+END
+addressof.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/424/tests/addressof.nxc
+END
+1877686_b.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/6/tests/1877686_b.nxc
+END
+return_bug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/417/tests/return_bug.nxc
+END
+onfwd.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/141/tests/onfwd.nxc
+END
+dots_nxc.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/77/tests/dots_nxc.nxc
+END
+e_test.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/6/tests/e_test.nxc
+END
+testmain.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/60/tests/testmain.nxc
+END
+LampTest2.nbc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/68/tests/LampTest2.nbc
+END
+const_test.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/141/tests/const_test.nxc
+END
+struct_tests2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/264/tests/struct_tests2.nxc
+END
+arraymath.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/411/tests/arraymath.nxc
+END
+strbytearraybug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/411/tests/strbytearraybug.nxc
+END
+testfloat4.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/362/tests/testfloat4.nxc
+END
+testminusone.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/77/tests/testminusone.nxc
+END
+muldiv.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/147/tests/muldiv.nxc
+END
+arrays.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/264/tests/arrays.nxc
+END
+fonttext_bug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/320/tests/fonttext_bug.nxc
+END
+f_array_search.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bricxcc/!svn/ver/144/tests/f_array_search.nxc
+END
+callbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/417/tests/callbug.nxc
+END
+drpoly.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/179/tests/drpoly.nxc
+END
+testapi.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/147/tests/testapi.nxc
+END
+not.nbc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/136/tests/not.nbc
+END
+nan.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/264/tests/nan.nxc
+END
+boolean_test.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/6/tests/boolean_test.nxc
+END
+struct.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/66/tests/struct.nxc
+END
+typestructbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/362/tests/typestructbug.nxc
+END
+tt.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bricxcc/!svn/ver/425/tests/tt.nxc
+END
+bouncy-workaround.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/153/tests/bouncy-workaround.nxc
+END
+associativity.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/385/tests/associativity.nxc
+END
+contrast.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/130/tests/contrast.nxc
+END
+artostr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/392/tests/artostr.nxc
+END
+param_test.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/6/tests/param_test.nxc
+END
+optimize.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/77/tests/optimize.nxc
+END
+fff.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/244/tests/fff.nxc
+END
+enumbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/421/tests/enumbug.nxc
+END
+simple.nbc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/66/tests/simple.nbc
+END
+struct_test2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/6/tests/struct_test2.nxc
+END
+float.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/157/tests/float.nxc
+END
+aridxbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/363/tests/aridxbug.nxc
+END
+arrtest2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/277/tests/arrtest2.nxc
+END
+strtest.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/27/tests/strtest.nxc
+END
+inline_bug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/244/tests/inline_bug.nxc
+END
+ar_bug1.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/320/tests/ar_bug1.nxc
+END
+substr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/320/tests/substr.nxc
+END
+ar_test3.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/6/tests/ar_test3.nxc
+END
+math_array.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/147/tests/math_array.nxc
+END
+1847301.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/6/tests/1847301.nxc
+END
+strings.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/270/tests/strings.nxc
+END
+comma.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/385/tests/comma.nxc
+END
+ar_test.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/320/tests/ar_test.nxc
+END
+testswitch.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/31/tests/testswitch.nxc
+END
+rect_f.2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/27/tests/rect_f.2.nxc
+END
+testfloatarray.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bricxcc/!svn/ver/147/tests/testfloatarray.nxc
+END
+fileio.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/269/tests/fileio.nxc
+END
+structarith.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/381/tests/structarith.nxc
+END
+shift.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/136/tests/shift.nxc
+END
+color.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/71/tests/color.nxc
+END
+special.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/143/tests/special.nxc
+END
+struct_array_test.2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/411/tests/struct_array_test.2.nxc
+END
+asmcmtbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/377/tests/asmcmtbug.nxc
+END
+dots.nbc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/62/tests/dots.nbc
+END
+people.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/62/tests/people.nxc
+END
+structarrbug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/417/tests/structarrbug.nxc
+END
+asgn_regression.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/392/tests/asgn_regression.nxc
+END
+bools.nbc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/66/tests/bools.nbc
+END
+2902670.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/264/tests/2902670.nxc
+END
+fillpoly.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/82/tests/fillpoly.nxc
+END
+start.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/264/tests/start.nxc
+END
+2922394.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/277/tests/2922394.nxc
+END
+1806864.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/264/tests/1806864.nxc
+END
+color2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/264/tests/color2.nxc
+END
+expr_opt.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/109/tests/expr_opt.nxc
+END
+circletest.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/109/tests/circletest.nxc
+END
+op_order.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/385/tests/op_order.nxc
+END
+1877686_a.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/6/tests/1877686_a.nxc
+END
+err_float.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/82/tests/err_float.nxc
+END
+2514500.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/264/tests/2514500.nxc
+END
+struct_bug.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/147/tests/struct_bug.nxc
+END
+enums.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/264/tests/enums.nxc
+END

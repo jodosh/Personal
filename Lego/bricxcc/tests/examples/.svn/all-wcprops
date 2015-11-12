@@ -1,0 +1,5237 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/433/tests/examples
+END
+ex_RemoteMessageRead.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RemoteMessageRead.nxc
+END
+ex_writei2cregister.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_writei2cregister.nxc
+END
+ex_SetLSMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSMode.nxc
+END
+ex_SysCommHSWrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_SysCommHSWrite.nxc
+END
+ex_MSRCXSetSensorType.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetSensorType.nxc
+END
+ex_MSPFRepeat.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSPFRepeat.nxc
+END
+ex_MSReadValue.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSReadValue.nxc
+END
+ex_MSRCXPlayTone.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXPlayTone.nxc
+END
+ex_LSChannelState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSChannelState.nxc
+END
+ex_isnan.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_isnan.nxc
+END
+ex_setdisplayfont.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/379/tests/examples/ex_setdisplayfont.nxc
+END
+ex_BluetoothStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BluetoothStatus.nxc
+END
+ex_I2CRead.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_I2CRead.nxc
+END
+ex_UIButton.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_UIButton.nxc
+END
+ex_cstring.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_cstring.nxc
+END
+ex_SetSoundModuleState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSoundModuleState.nxc
+END
+ex_MSPFSingleOutputPWM.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSPFSingleOutputPWM.nxc
+END
+ex_SetHSOutputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetHSOutputBufferInPtr.nxc
+END
+ex_HTRCXFloat.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXFloat.nxc
+END
+ex_MSRCXSubVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSubVar.nxc
+END
+ex_SendRemoteBool.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SendRemoteBool.nxc
+END
+ex_div.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_div.nxc
+END
+ex_RebootInFirmwareMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RebootInFirmwareMode.nxc
+END
+ex_leftstr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_leftstr.nxc
+END
+ex_SetLSChannelState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSChannelState.nxc
+END
+ex_ctype.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_ctype.nxc
+END
+ex_MSRCXOn.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXOn.nxc
+END
+ex_asin.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_asin.nxc
+END
+ex_motorregulation.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motorregulation.nxc
+END
+ex_sysdrawgraphic.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysdrawgraphic.nxc
+END
+ex_ResolveHandle.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ResolveHandle.nxc
+END
+ex_MSRCXSetUserDisplay.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetUserDisplay.nxc
+END
+ex_HTPFSingleOutputCST.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/342/tests/examples/ex_HTPFSingleOutputCST.nxc
+END
+ex_StrToByteArray.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_StrToByteArray.nxc
+END
+ex_MSRCXMuteSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXMuteSound.nxc
+END
+ex_MSScoutSetScoutRules.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSetScoutRules.nxc
+END
+ex_HTRCXSetSensorMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetSensorMode.nxc
+END
+ex_syssoundplaytone.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syssoundplaytone.nxc
+END
+ex_syskeepalive.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syskeepalive.nxc
+END
+ex_syssoundsetstate.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syssoundsetstate.nxc
+END
+ex_MSRCXInvertOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXInvertOutput.nxc
+END
+ex_LSInputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSInputBufferInPtr.nxc
+END
+ex_offex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_offex.nxc
+END
+ex_ReadSensorUSEx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_ReadSensorUSEx.nxc
+END
+ex_putc.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_putc.nxc
+END
+ex_SensorMSPressureRaw.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SensorMSPressureRaw.nxc
+END
+ex_HTScoutSetEventFeedback.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSetEventFeedback.nxc
+END
+ex_GetBTInputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetBTInputBuffer.nxc
+END
+ex_SensorUS.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorUS.nxc
+END
+ex_getc.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_getc.nxc
+END
+ex_file_system.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/406/tests/examples/ex_file_system.nxc
+END
+ex_cstdio.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_cstdio.nxc
+END
+ex_RS485Control.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_RS485Control.nxc
+END
+ex_ReadSensorMSRTClock.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReadSensorMSRTClock.nxc
+END
+ex_SoundState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SoundState.nxc
+END
+ex_HTRCXObvertOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXObvertOutput.nxc
+END
+ex_sin_cos.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_sin_cos.nxc
+END
+glCircleDemo.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/338/tests/examples/glCircleDemo.nxc
+END
+ex_BTConnectionStreamStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTConnectionStreamStatus.nxc
+END
+ex_ColorSensorValue.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_ColorSensorValue.nxc
+END
+ex_StrLen.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_StrLen.nxc
+END
+ex_MSRCXCreateDatalog.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXCreateDatalog.nxc
+END
+ex_rotatemotorex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_rotatemotorex.nxc
+END
+ex_ReadSensorHTIRReceiverEx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_ReadSensorHTIRReceiverEx.nxc
+END
+ex_iscntrl.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_iscntrl.nxc
+END
+ex_sysfileopenwritenonlinear.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bricxcc/!svn/ver/300/tests/examples/ex_sysfileopenwritenonlinear.nxc
+END
+ex_ColorSensorRaw.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_ColorSensorRaw.nxc
+END
+ex_i2cversion.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_i2cversion.nxc
+END
+ex_USBPollBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_USBPollBufferInPtr.nxc
+END
+ex_DISTNxMinDistance.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_DISTNxMinDistance.nxc
+END
+ex_sysrandomnumber.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysrandomnumber.nxc
+END
+ex_ForceOff.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ForceOff.nxc
+END
+ex_setsensorhteopd.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setsensorhteopd.nxc
+END
+ex_MSRCXSetGlobalDirection.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetGlobalDirection.nxc
+END
+ex_MSRCXOnFwd.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXOnFwd.nxc
+END
+ex_GetBTDeviceAddress.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetBTDeviceAddress.nxc
+END
+ex_HTRCXSetWatch.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetWatch.nxc
+END
+ex_BTInputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTInputBufferInPtr.nxc
+END
+ex_displayfont.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/379/tests/examples/ex_displayfont.nxc
+END
+ex_motoroverload.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motoroverload.nxc
+END
+ex_CurrentTick.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_CurrentTick.nxc
+END
+ex_ColorADRaw.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_ColorADRaw.nxc
+END
+ex_HTScoutMuteSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutMuteSound.nxc
+END
+ex_remove.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_remove.nxc
+END
+ex_ReceiveRemoteMessageEx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReceiveRemoteMessageEx.nxc
+END
+ex_ReadSensorHTColor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReadSensorHTColor.nxc
+END
+ex_MSRCXSetTxPower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetTxPower.nxc
+END
+ex_HSInputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HSInputBufferOutPtr.nxc
+END
+ex_setsleeptime.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setsleeptime.nxc
+END
+ex_string.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_string.nxc
+END
+ex_NRLink4800.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_NRLink4800.nxc
+END
+ex_addressof.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/424/tests/examples/ex_addressof.nxc
+END
+ex_i2cdeviceid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_i2cdeviceid.nxc
+END
+ex_HTRCXBatteryLevel.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXBatteryLevel.nxc
+END
+ex_motoractualspeed.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motoractualspeed.nxc
+END
+ex_strtoul.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_strtoul.nxc
+END
+ex_ArrayOp.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_ArrayOp.nxc
+END
+ex_LSOutputBufferBytesToRx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSOutputBufferBytesToRx.nxc
+END
+ex_onfwd.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onfwd.nxc
+END
+ex_UIState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_UIState.nxc
+END
+ex_SetHSOutputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetHSOutputBufferOutPtr.nxc
+END
+ex_LSState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSState.nxc
+END
+ex_Random.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_Random.nxc
+END
+ex_HTRCXSelectProgram.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSelectProgram.nxc
+END
+ex_ReadSensorHTIRSeeker2AC.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_ReadSensorHTIRSeeker2AC.nxc
+END
+ex_HTRCXStopTask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXStopTask.nxc
+END
+glScaleDemo.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/338/tests/examples/glScaleDemo.nxc
+END
+ex_HTRCXAbsVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXAbsVar.nxc
+END
+ex_sysiomapwritebyid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysiomapwritebyid.nxc
+END
+ex_OpenFileAppend.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_OpenFileAppend.nxc
+END
+ex_Acquire.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/307/tests/examples/ex_Acquire.nxc
+END
+ex_HTRCXFwd.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXFwd.nxc
+END
+ex_HTRCXEvent.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXEvent.nxc
+END
+ex_HTScoutSetLight.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSetLight.nxc
+END
+ex_SendMessage.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SendMessage.nxc
+END
+ex_HTScoutSetScoutRules.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSetScoutRules.nxc
+END
+ex_NRLinkSetPF.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_NRLinkSetPF.nxc
+END
+ex_MSRCXSetWatch.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetWatch.nxc
+END
+ex_sinh.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_sinh.nxc
+END
+ex_HSOutputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HSOutputBufferInPtr.nxc
+END
+ex_HTRCXOnRev.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXOnRev.nxc
+END
+ex_motorpwnfreq.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motorpwnfreq.nxc
+END
+ex_HTRCXSetPriority.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetPriority.nxc
+END
+ex_coastex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_coastex.nxc
+END
+ex_LSNoRestartOnRead.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_LSNoRestartOnRead.nxc
+END
+ex_RemoteMessageWrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RemoteMessageWrite.nxc
+END
+ex_LSInputBufferBytesToRx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSInputBufferBytesToRx.nxc
+END
+ex_MSRCXSgnVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSgnVar.nxc
+END
+ex_playsound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/328/tests/examples/ex_playsound.nxc
+END
+ex_SensorValueRaw.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SensorValueRaw.nxc
+END
+ex_SetUSBOutputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUSBOutputBuffer.nxc
+END
+ex_WriteString.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_WriteString.nxc
+END
+ex_HTScoutSetSensorHysteresis.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSetSensorHysteresis.nxc
+END
+ex_DISTNxDistance.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_DISTNxDistance.nxc
+END
+ex_MSRCXStopTask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXStopTask.nxc
+END
+ex_GetHSOutputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetHSOutputBuffer.nxc
+END
+ex_setsensorboolean.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setsensorboolean.nxc
+END
+ex_LowspeedStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LowspeedStatus.nxc
+END
+ex_SetLSInputBufferBytesToRx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSInputBufferBytesToRx.nxc
+END
+ex_MSRCXDeleteSub.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXDeleteSub.nxc
+END
+ex_atof.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_atof.nxc
+END
+ex_sysfilewrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfilewrite.nxc
+END
+ex_GetBTConnectionAddress.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetBTConnectionAddress.nxc
+END
+ex_tolower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_tolower.nxc
+END
+ex_RemoteSetInputMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/351/tests/examples/ex_RemoteSetInputMode.nxc
+END
+ex_OpenFileRead.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_OpenFileRead.nxc
+END
+ex_Flatten.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_Flatten.nxc
+END
+ex_RemoteStartProgram.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RemoteStartProgram.nxc
+END
+ex_MSRCXDisableOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXDisableOutput.nxc
+END
+ex_SetIOMA.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetIOMA.nxc
+END
+ex_FirstTick.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_FirstTick.nxc
+END
+ex_ArrayInit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ArrayInit.nxc
+END
+ex_sysfilerename.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfilerename.nxc
+END
+ex_SendRS485Number.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SendRS485Number.nxc
+END
+ex_MSRCXUnlock.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXUnlock.nxc
+END
+ex_MSRCXSet.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSet.nxc
+END
+ex_MSRCXDivVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXDivVar.nxc
+END
+ex_HTRCXClearSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXClearSound.nxc
+END
+ex_SysDrawEllipse.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/318/tests/examples/ex_SysDrawEllipse.nxc
+END
+ex_resettachocount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_resettachocount.nxc
+END
+ex_rotatemotorpid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_rotatemotorpid.nxc
+END
+ex_HTRCXSetVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetVar.nxc
+END
+ex_getchar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/328/tests/examples/ex_getchar.nxc
+END
+ex_motorpower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motorpower.nxc
+END
+ex_HTRCXSelectDisplay.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSelectDisplay.nxc
+END
+ex_SleepTimeout.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SleepTimeout.nxc
+END
+ex_sysiomapwrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysiomapwrite.nxc
+END
+ex_writenrlinkbytes.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_writenrlinkbytes.nxc
+END
+ex_HTRCXEnableOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXEnableOutput.nxc
+END
+ex_PointOut.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_PointOut.nxc
+END
+ex_MSRCXIncCounter.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXIncCounter.nxc
+END
+ex_onrevex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onrevex.nxc
+END
+ex_RS485SendingData.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_RS485SendingData.nxc
+END
+ex_Write.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_Write.nxc
+END
+ex_SetBTInputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetBTInputBuffer.nxc
+END
+ex_MSScoutSetScoutMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSetScoutMode.nxc
+END
+ex_MSRCXToggle.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXToggle.nxc
+END
+ex_SoundDuration.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SoundDuration.nxc
+END
+ex_StrCatOld.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_StrCatOld.nxc
+END
+ex_sysdrawtext.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysdrawtext.nxc
+END
+ex_ArraySum.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_ArraySum.nxc
+END
+ex_Volume.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_Volume.nxc
+END
+ex_MSRCXRemote.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXRemote.nxc
+END
+ex_MSEnergize.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSEnergize.nxc
+END
+ex_copy.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_copy.nxc
+END
+ex_onfwdsync.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onfwdsync.nxc
+END
+ex_SensorType.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorType.nxc
+END
+ex_dispfnout.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/290/tests/examples/ex_dispfnout.nxc
+END
+ex_RS485DataAvailable.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_RS485DataAvailable.nxc
+END
+ex_SysCommHSRead.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SysCommHSRead.nxc
+END
+ex_log10.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_log10.nxc
+END
+ex_SetVolume.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetVolume.nxc
+END
+ex_displaycontrast.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_displaycontrast.nxc
+END
+ex_HTScoutSetSensorClickTime.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSetSensorClickTime.nxc
+END
+ex_HTRCXSetOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetOutput.nxc
+END
+ex_PlayToneEx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_PlayToneEx.nxc
+END
+ex_SensorHTCompass.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorHTCompass.nxc
+END
+ex_NumToStr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_NumToStr.nxc
+END
+ex_ReadSensorMSAccel.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_ReadSensorMSAccel.nxc
+END
+ex_MSRCXClearSensor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXClearSensor.nxc
+END
+ex_LowspeedWrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LowspeedWrite.nxc
+END
+ex_BTOutputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTOutputBufferOutPtr.nxc
+END
+ex_motorregdvalue.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motorregdvalue.nxc
+END
+ex_HTRCXSendSerial.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSendSerial.nxc
+END
+ex_MSPFTrain.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSPFTrain.nxc
+END
+ex_GetUSBInputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetUSBInputBuffer.nxc
+END
+ex_MSScoutUnmuteSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutUnmuteSound.nxc
+END
+ex_MSRCXClearTimer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXClearTimer.nxc
+END
+ex_wait.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/288/tests/examples/ex_wait.nxc
+END
+ex_PlayFile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_PlayFile.nxc
+END
+ex_NRLinkIRLong.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_NRLinkIRLong.nxc
+END
+ex_HTPFSingleOutputPWM.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/342/tests/examples/ex_HTPFSingleOutputPWM.nxc
+END
+ex_HTRCXPollMemory.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXPollMemory.nxc
+END
+ex_MSScoutSetTimerLimit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSetTimerLimit.nxc
+END
+ex_MSRCXRev.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXRev.nxc
+END
+ex_MSPFComboPWM.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSPFComboPWM.nxc
+END
+ex_HTRCXSubVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSubVar.nxc
+END
+ex_DISTNxGP2YA02.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_DISTNxGP2YA02.nxc
+END
+ex_readi2cregister.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_readi2cregister.nxc
+END
+ex_StartTask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_StartTask.nxc
+END
+ex_ReadSensorHTIRReceiver.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_ReadSensorHTIRReceiver.nxc
+END
+ex_HTScoutSendVLL.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSendVLL.nxc
+END
+ex_PowerDown.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_PowerDown.nxc
+END
+ex_bcd2dec.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/307/tests/examples/ex_bcd2dec.nxc
+END
+ex_SetHSState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetHSState.nxc
+END
+ex_HTRCXSetUserDisplay.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetUserDisplay.nxc
+END
+ex_acosd.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_acosd.nxc
+END
+ex_Precedes.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_Precedes.nxc
+END
+ex_HSSpeed.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HSSpeed.nxc
+END
+ex_SleepNow.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SleepNow.nxc
+END
+ex_ReadNRLinkBytes.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_ReadNRLinkBytes.nxc
+END
+ex_getoutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_getoutput.nxc
+END
+ex_MSADPAOn.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSADPAOn.nxc
+END
+ex_MSRCXClearCounter.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXClearCounter.nxc
+END
+ex_CreateFile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_CreateFile.nxc
+END
+ex_SysColorSensorRead.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SysColorSensorRead.nxc
+END
+ex_GetUSBOutputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetUSBOutputBuffer.nxc
+END
+ex_StrReplace.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_StrReplace.nxc
+END
+ex_atan2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_atan2.nxc
+END
+ex_ftell.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ftell.nxc
+END
+ex_rename.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_rename.nxc
+END
+ex_sysgetstarttick.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysgetstarttick.nxc
+END
+ex_CustomSensorZeroOffset.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_CustomSensorZeroOffset.nxc
+END
+ex_WriteLnString.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_WriteLnString.nxc
+END
+ex_HTRCXBoot.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXBoot.nxc
+END
+ex_SetButtonPressCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetButtonPressCount.nxc
+END
+ex_ColorCalLimits.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_ColorCalLimits.nxc
+END
+ex_SetButtonShortReleaseCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetButtonShortReleaseCount.nxc
+END
+ex_SetSoundFlags.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSoundFlags.nxc
+END
+ex_onrevregexpid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/303/tests/examples/ex_onrevregexpid.nxc
+END
+ex_SetCustomSensorZeroOffset.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetCustomSensorZeroOffset.nxc
+END
+ex_SetButtonState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetButtonState.nxc
+END
+ex_GetLSOutputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetLSOutputBuffer.nxc
+END
+ex_ReadSensorHTIRSeeker.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReadSensorHTIRSeeker.nxc
+END
+ex_DISTNxVoltage.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_DISTNxVoltage.nxc
+END
+ex_SetUSBInputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUSBInputBufferInPtr.nxc
+END
+ex_contrast.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/290/tests/examples/ex_contrast.nxc
+END
+ex_BTDeviceCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTDeviceCount.nxc
+END
+ex_HTRCXUnmuteSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXUnmuteSound.nxc
+END
+glPyramidDemo.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/365/tests/examples/glPyramidDemo.nxc
+END
+ex_ReadSensorMSTilt.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_ReadSensorMSTilt.nxc
+END
+ex_MSRCXOrVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXOrVar.nxc
+END
+ex_sysreadbutton.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysreadbutton.nxc
+END
+ex_PolyOut.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/318/tests/examples/ex_PolyOut.nxc
+END
+ex_frac.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_frac.nxc
+END
+ex_HTRCXPBTurnOff.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXPBTurnOff.nxc
+END
+ex_SetMotorPwnFreq.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/303/tests/examples/ex_SetMotorPwnFreq.nxc
+END
+ex_ArrayMin.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_ArrayMin.nxc
+END
+ex_ArrayMax.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_ArrayMax.nxc
+END
+ex_I2CBytes.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_I2CBytes.nxc
+END
+ex_onrevregpid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/303/tests/examples/ex_onrevregpid.nxc
+END
+ex_sysfileseek.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_sysfileseek.nxc
+END
+ex_CircleOut.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_CircleOut.nxc
+END
+ex_PSPNxAnalog.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_PSPNxAnalog.nxc
+END
+ex_SendRemoteString.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SendRemoteString.nxc
+END
+ex_SetSoundVolume.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSoundVolume.nxc
+END
+ex_ReadSensorMSPlayStation.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_ReadSensorMSPlayStation.nxc
+END
+ex_HTRCXStopAllTasks.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXStopAllTasks.nxc
+END
+ex_toupper.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_toupper.nxc
+END
+ex_syssetscreenmode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syssetscreenmode.nxc
+END
+ex_MSADPAOff.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSADPAOff.nxc
+END
+ex_AbortFlag.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_AbortFlag.nxc
+END
+ex_PlayFileEx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_PlayFileEx.nxc
+END
+ex_SensorDigiPinsStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorDigiPinsStatus.nxc
+END
+ex_HTScoutSetCounterLimit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSetCounterLimit.nxc
+END
+ex_HTPFComboPWM.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/342/tests/examples/ex_HTPFComboPWM.nxc
+END
+ex_HTScoutSetTimerLimit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSetTimerLimit.nxc
+END
+ex_SetLSErrorType.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSErrorType.nxc
+END
+ex_SoundSampleRate.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SoundSampleRate.nxc
+END
+ex_rightstr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_rightstr.nxc
+END
+ex_RemotePlayTone.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RemotePlayTone.nxc
+END
+ex_sethtirseeker2mode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_sethtirseeker2mode.nxc
+END
+ex_HTScoutSetSensorUpperLimit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_HTScoutSetSensorUpperLimit.nxc
+END
+ex_BatteryState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BatteryState.nxc
+END
+ex_ArrayMean.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_ArrayMean.nxc
+END
+ex_rotatemotor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_rotatemotor.nxc
+END
+ex_MSScoutSetEventFeedback.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSetEventFeedback.nxc
+END
+ex_I2CStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_I2CStatus.nxc
+END
+ex_EllipseOut.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/318/tests/examples/ex_EllipseOut.nxc
+END
+ex_Stop.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_Stop.nxc
+END
+ex_MSRCXSetIRLinkPort.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetIRLinkPort.nxc
+END
+ex_BTDeviceName.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTDeviceName.nxc
+END
+ex_tand.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_tand.nxc
+END
+ex_sysfileopenappend.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfileopenappend.nxc
+END
+ex_dispgaoutex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_dispgaoutex.nxc
+END
+ex_SetSensorSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensorSound.nxc
+END
+ex_SendResponseString.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SendResponseString.nxc
+END
+ex_HTRCXSetSensorType.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetSensorType.nxc
+END
+ex_HTPFRepeat.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTPFRepeat.nxc
+END
+ex_SetUSBPollBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUSBPollBufferOutPtr.nxc
+END
+ex_pow.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_pow.nxc
+END
+ex_onfwdregpid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/303/tests/examples/ex_onfwdregpid.nxc
+END
+ex_HTRCXSgnVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSgnVar.nxc
+END
+ex_SleepTimer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SleepTimer.nxc
+END
+ex_MSRCXSetGlobalOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetGlobalOutput.nxc
+END
+ex_HTPFSinglePin.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/342/tests/examples/ex_HTPFSinglePin.nxc
+END
+ex_MSScoutSetSensorLowerLimit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_MSScoutSetSensorLowerLimit.nxc
+END
+ex_dispfunc.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/290/tests/examples/ex_dispfunc.nxc
+END
+ex_HTRCXSetSleepTime.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetSleepTime.nxc
+END
+ex_ReadSensorHTColor2Active.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_ReadSensorHTColor2Active.nxc
+END
+ex_syscommbtcheckstatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syscommbtcheckstatus.nxc
+END
+ex_LowspeedCheckStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LowspeedCheckStatus.nxc
+END
+ex_DISTNxNumPoints.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_DISTNxNumPoints.nxc
+END
+ex_ReceiveMessage.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReceiveMessage.nxc
+END
+ex_SetSensorTouch.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensorTouch.nxc
+END
+ex_MSRCXSetOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetOutput.nxc
+END
+ex_MSRCXSetNRLinkPort.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSRCXSetNRLinkPort.nxc
+END
+ex_MSRCXSetMaxPower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetMaxPower.nxc
+END
+ex_dispgoutex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_dispgoutex.nxc
+END
+ex_isdigit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_isdigit.nxc
+END
+ex_NRLinkFlush.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_NRLinkFlush.nxc
+END
+ex_SensorDigiPinsDirection.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorDigiPinsDirection.nxc
+END
+ex_strncpy.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/321/tests/examples/ex_strncpy.nxc
+END
+ex_HTRCXDivVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXDivVar.nxc
+END
+ex_HTRCXUnlock.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXUnlock.nxc
+END
+ex_sind_cosd.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_sind_cosd.nxc
+END
+ex_RemoteResetScaledValue.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RemoteResetScaledValue.nxc
+END
+ex_fopen.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_fopen.nxc
+END
+ex_fprintf.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_fprintf.nxc
+END
+ex_onfwdregex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onfwdregex.nxc
+END
+ex_SoundFrequency.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SoundFrequency.nxc
+END
+ex_ButtonState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ButtonState.nxc
+END
+ex_HTRCXPlayToneVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXPlayToneVar.nxc
+END
+ex_MSPFSinglePin.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSPFSinglePin.nxc
+END
+ex_memcmp.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/377/tests/examples/ex_memcmp.nxc
+END
+ex_strncat.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/321/tests/examples/ex_strncat.nxc
+END
+ex_USBInputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_USBInputBufferInPtr.nxc
+END
+ex_RemoteKeepAlive.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RemoteKeepAlive.nxc
+END
+ex_RS485Uart.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_RS485Uart.nxc
+END
+ex_ButtonLongPressCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ButtonLongPressCount.nxc
+END
+ex_ResetScreen.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ResetScreen.nxc
+END
+ex_MSRCXPoll.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXPoll.nxc
+END
+ex_HTRCXOff.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXOff.nxc
+END
+ex_SensorScaled.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorScaled.nxc
+END
+ex_MSScoutSendVLL.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSendVLL.nxc
+END
+ex_ispunct.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ispunct.nxc
+END
+ex_BTConnectionName.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTConnectionName.nxc
+END
+ex_ClearScreen.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_ClearScreen.nxc
+END
+ex_SetSoundFrequency.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSoundFrequency.nxc
+END
+ex_onrevsync.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onrevsync.nxc
+END
+ex_HTScoutSetScoutMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSetScoutMode.nxc
+END
+ex_HTRCXToggle.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXToggle.nxc
+END
+ex_SetSensorMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensorMode.nxc
+END
+2c.ric
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/290/tests/examples/2c.ric
+END
+ex_SetUSBOutputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUSBOutputBufferOutPtr.nxc
+END
+ex_MSScoutSetLight.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSetLight.nxc
+END
+ex_HSInputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HSInputBufferInPtr.nxc
+END
+ex_buttonpressed.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/289/tests/examples/ex_buttonpressed.nxc
+END
+ex_MSRCXAddToDatalog.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXAddToDatalog.nxc
+END
+ex_HTRCXRemote.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXRemote.nxc
+END
+ex_syscommlswrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syscommlswrite.nxc
+END
+ex_MSRCXCalibrateEvent.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXCalibrateEvent.nxc
+END
+ex_BluetoothState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BluetoothState.nxc
+END
+ex_HTRCXPing.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXPing.nxc
+END
+ex_StrLenOld.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_StrLenOld.nxc
+END
+ex_HTRCXCreateDatalog.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXCreateDatalog.nxc
+END
+ex_MSIRTrain.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSIRTrain.nxc
+END
+ex_SensorBoolean.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorBoolean.nxc
+END
+ex_atan2d.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_atan2d.nxc
+END
+ex_dispmisc.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/307/tests/examples/ex_dispmisc.nxc
+END
+ex_DISTNxGP2YA21.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_DISTNxGP2YA21.nxc
+END
+ex_feof.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_feof.nxc
+END
+ex_SoundVolume.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SoundVolume.nxc
+END
+ex_isalpha.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_isalpha.nxc
+END
+ex_SetBluetoothState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetBluetoothState.nxc
+END
+ex_sysdrawfont.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/318/tests/examples/ex_sysdrawfont.nxc
+END
+ex_WriteLn.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_WriteLn.nxc
+END
+ex_HTRCXOnFwd.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXOnFwd.nxc
+END
+ex_DISTNxGP2D12.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_DISTNxGP2D12.nxc
+END
+ex_MSRCXSumVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSumVar.nxc
+END
+ex_LSErrorType.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSErrorType.nxc
+END
+ex_SetSleepTimeout.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSleepTimeout.nxc
+END
+ex_SetOnBrickProgramPointer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetOnBrickProgramPointer.nxc
+END
+ex_sysfileopenread.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfileopenread.nxc
+END
+ex_setsensormsdrod.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setsensormsdrod.nxc
+END
+ex_ReadSensorHTTouchMultiplexer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_ReadSensorHTTouchMultiplexer.nxc
+END
+util_rpm.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/379/tests/examples/util_rpm.nxc
+END
+ex_DeleteFile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_DeleteFile.nxc
+END
+ex_ArraySubset.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/307/tests/examples/ex_ArraySubset.nxc
+END
+ex_HTRCXSetGlobalOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetGlobalOutput.nxc
+END
+ex_VMRunState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_VMRunState.nxc
+END
+ex_CreateFileNonLinear.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_CreateFileNonLinear.nxc
+END
+ex_HTRCXSetMessage.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetMessage.nxc
+END
+ex_i2cdeviceinfo.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_i2cdeviceinfo.nxc
+END
+ex_sysdrawrect.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysdrawrect.nxc
+END
+ex_MSRCXClearSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXClearSound.nxc
+END
+ex_SetAbortFlag.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_SetAbortFlag.nxc
+END
+ex_sysdrawcircle.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysdrawcircle.nxc
+END
+ex_LineOut.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/318/tests/examples/ex_LineOut.nxc
+END
+ex_GetBTOutputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetBTOutputBuffer.nxc
+END
+ex_MSRCXPBTurnOff.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXPBTurnOff.nxc
+END
+ex_ReceiveRemoteString.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReceiveRemoteString.nxc
+END
+ex_sprintf.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_sprintf.nxc
+END
+ex_SysCommHSControl.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SysCommHSControl.nxc
+END
+ex_USBPollBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_USBPollBufferOutPtr.nxc
+END
+ex_ArraySumSqr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_ArraySumSqr.nxc
+END
+ex_BrickDataBtHardwareStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BrickDataBtHardwareStatus.nxc
+END
+ex_syscommlswriteex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_syscommlswriteex.nxc
+END
+ex_HTRCXDecCounter.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXDecCounter.nxc
+END
+ex_memmove.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_memmove.nxc
+END
+ex_setsensorcolorgreen.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setsensorcolorgreen.nxc
+END
+ex_MSScoutSetCounterLimit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSetCounterLimit.nxc
+END
+ex_I2CBytesReady.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_I2CBytesReady.nxc
+END
+ex_SetBTOutputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetBTOutputBufferOutPtr.nxc
+END
+ex_BrickDataBluecoreVersion.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BrickDataBluecoreVersion.nxc
+END
+letters.ric
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/290/tests/examples/letters.ric
+END
+ex_HTPFComboDirect.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/342/tests/examples/ex_HTPFComboDirect.nxc
+END
+ex_ArrayLen.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ArrayLen.nxc
+END
+ex_findnextfile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_findnextfile.nxc
+END
+ex_SetCustomSensorActiveStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetCustomSensorActiveStatus.nxc
+END
+ex_CustomSensorPercentFullScale.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_CustomSensorPercentFullScale.nxc
+END
+ex_BluetoothWrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BluetoothWrite.nxc
+END
+ex_HTRCXDeleteTasks.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXDeleteTasks.nxc
+END
+glBoxDemo.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/338/tests/examples/glBoxDemo.nxc
+END
+ex_syscommlsread.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syscommlsread.nxc
+END
+ex_NRLinkSetRCX.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_NRLinkSetRCX.nxc
+END
+ex_SetLSOutputBufferBytesToRx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSOutputBufferBytesToRx.nxc
+END
+ex_sysdrawgraphicarray.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/318/tests/examples/ex_sysdrawgraphicarray.nxc
+END
+ex_SetUIState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUIState.nxc
+END
+ex_ByteArrayToStrEx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ByteArrayToStrEx.nxc
+END
+ex_SetLSState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSState.nxc
+END
+ex_HTPFRawOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTPFRawOutput.nxc
+END
+ex_HTRCXDisableOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXDisableOutput.nxc
+END
+ex_WriteBytesEx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_WriteBytesEx.nxc
+END
+ex_LSSpeed.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSSpeed.nxc
+END
+ex_StrCat.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_StrCat.nxc
+END
+ex_SetButtonReleaseCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetButtonReleaseCount.nxc
+END
+ex_MSScoutMuteSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutMuteSound.nxc
+END
+ex_ButtonPressCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ButtonPressCount.nxc
+END
+ex_HTRCXInvertOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXInvertOutput.nxc
+END
+ex_PSPNxDigital.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_PSPNxDigital.nxc
+END
+ex_MSRCXSendSerial.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSendSerial.nxc
+END
+ex_SetUsbState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUsbState.nxc
+END
+ex_SetBTInputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetBTInputBufferOutPtr.nxc
+END
+ex_MSRCXSetDirection.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetDirection.nxc
+END
+ex_BTDeviceClass.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTDeviceClass.nxc
+END
+ex_fclose.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_fclose.nxc
+END
+ex_SensorHTIRSeeker2Addr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SensorHTIRSeeker2Addr.nxc
+END
+ex_MSRCXPollMemory.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXPollMemory.nxc
+END
+ex_syssoundplayfile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syssoundplayfile.nxc
+END
+ex_LowspeedRead.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LowspeedRead.nxc
+END
+ex_dispftout.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/290/tests/examples/ex_dispftout.nxc
+END
+ex_fputc.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_fputc.nxc
+END
+ex_SensorValueBool.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SensorValueBool.nxc
+END
+ex_MSRCXMulVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXMulVar.nxc
+END
+ex_Follows.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_Follows.nxc
+END
+ex_fgetc.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_fgetc.nxc
+END
+ex_isprint.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_isprint.nxc
+END
+ex_trunc.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_trunc.nxc
+END
+ex_atoi.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_atoi.nxc
+END
+ex_cosh.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_cosh.nxc
+END
+ex_MSRCXFwd.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXFwd.nxc
+END
+ex_MSRCXReset.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXReset.nxc
+END
+ex_MSPFRawOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSPFRawOutput.nxc
+END
+ex_fputs.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_fputs.nxc
+END
+ex_printf.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_printf.nxc
+END
+ex_addressofex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/424/tests/examples/ex_addressofex.nxc
+END
+ex_HTRCXDeleteSubs.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXDeleteSubs.nxc
+END
+ex_SysCommBTOnOff.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SysCommBTOnOff.nxc
+END
+ex_fgets.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_fgets.nxc
+END
+ex_SetBTOutputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetBTOutputBufferInPtr.nxc
+END
+ex_MSRCXSetPriority.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetPriority.nxc
+END
+ex_SysUpdateCalibCacheInfo.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SysUpdateCalibCacheInfo.nxc
+END
+ex_reladdressof.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/424/tests/examples/ex_reladdressof.nxc
+END
+ex_playtones.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/328/tests/examples/ex_playtones.nxc
+END
+ex_MSRCXClearAllEvents.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXClearAllEvents.nxc
+END
+ex_HTRCXSetPower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetPower.nxc
+END
+ex_SetLSInputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSInputBufferInPtr.nxc
+END
+ex_USBInputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_USBInputBufferOutPtr.nxc
+END
+ex_strcpy.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/321/tests/examples/ex_strcpy.nxc
+END
+ex_HSFlags.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HSFlags.nxc
+END
+ex_atand.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_atand.nxc
+END
+ex_I2CWrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_I2CWrite.nxc
+END
+ex_syscommbtwrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syscommbtwrite.nxc
+END
+ex_isgraph.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_isgraph.nxc
+END
+ex_syslistfiles.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_syslistfiles.nxc
+END
+ex_sysmessagewrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysmessagewrite.nxc
+END
+ex_RechargeableBattery.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RechargeableBattery.nxc
+END
+ex_HTScoutUnmuteSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutUnmuteSound.nxc
+END
+ex_resizefile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_resizefile.nxc
+END
+ex_onfwdregexpid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/303/tests/examples/ex_onfwdregexpid.nxc
+END
+ex_NRLinkSetTrain.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_NRLinkSetTrain.nxc
+END
+ex_onfwdsyncpid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/303/tests/examples/ex_onfwdsyncpid.nxc
+END
+ex_sysfileread.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfileread.nxc
+END
+ex_Read.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_Read.nxc
+END
+ex_BTConnectionClass.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTConnectionClass.nxc
+END
+ex_resetrotationcount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_resetrotationcount.nxc
+END
+ex_sysfileopenwrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfileopenwrite.nxc
+END
+ex_ceil.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ceil.nxc
+END
+ex_sysdataloggettimes.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_sysdataloggettimes.nxc
+END
+ex_SensorHTEOPD.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SensorHTEOPD.nxc
+END
+ex_ColorBoolean.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_ColorBoolean.nxc
+END
+ex_SetSensorDigiPinsStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensorDigiPinsStatus.nxc
+END
+ex_USBOutputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_USBOutputBufferInPtr.nxc
+END
+ex_labs.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_labs.nxc
+END
+ex_log.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_log.nxc
+END
+ex_onrevsyncex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onrevsyncex.nxc
+END
+ex_ReadSensorHTIRSeeker2DC.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_ReadSensorHTIRSeeker2DC.nxc
+END
+ex_GetHSInputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetHSInputBuffer.nxc
+END
+ex_MSRCXSetPower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetPower.nxc
+END
+ex_acos.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_acos.nxc
+END
+ex_SetBatteryState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetBatteryState.nxc
+END
+ex_HTRCXPlaySound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXPlaySound.nxc
+END
+ex_GetLSInputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetLSInputBuffer.nxc
+END
+ex_UiUsbState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_UiUsbState.nxc
+END
+ex_DISTNxMaxDistance.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_DISTNxMaxDistance.nxc
+END
+ex_CommandFlags.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_CommandFlags.nxc
+END
+ex_MSRCXObvertOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXObvertOutput.nxc
+END
+ex_dispgaout.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/290/tests/examples/ex_dispgaout.nxc
+END
+ex_RS485Write.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_RS485Write.nxc
+END
+ex_MSRCXOnFor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXOnFor.nxc
+END
+ex_ReadSensorHTNormalizedColor2Active.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_ReadSensorHTNormalizedColor2Active.nxc
+END
+ex_SetUSBPollBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUSBPollBufferInPtr.nxc
+END
+ex_SysComputeCalibValue.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SysComputeCalibValue.nxc
+END
+ex_RunNRLinkMacro.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_RunNRLinkMacro.nxc
+END
+ex_GraphicOut.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GraphicOut.nxc
+END
+ex_HTRCXSetEvent.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetEvent.nxc
+END
+ex_yield.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/288/tests/examples/ex_yield.nxc
+END
+ex_RenameFile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RenameFile.nxc
+END
+ex_SetBTInputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetBTInputBufferInPtr.nxc
+END
+ex_HTScoutSetSensorLower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSetSensorLower.nxc
+END
+ex_isalnum.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_isalnum.nxc
+END
+ex_ReceiveRemoteBool.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReceiveRemoteBool.nxc
+END
+ex_off.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_off.nxc
+END
+ex_motorregpvalue.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motorregpvalue.nxc
+END
+ex_ResetSleepTimer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ResetSleepTimer.nxc
+END
+ex_SetDisplayEraseMask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetDisplayEraseMask.nxc
+END
+PropTiny.ric
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/290/tests/examples/PropTiny.ric
+END
+ex_floor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_floor.nxc
+END
+ex_SensorRaw.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorRaw.nxc
+END
+ex_MSRCXAndVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXAndVar.nxc
+END
+ex_RS485Status.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_RS485Status.nxc
+END
+ex_GetBrickDataAddress.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetBrickDataAddress.nxc
+END
+ex_delete_data_file.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/406/tests/examples/ex_delete_data_file.nxc
+END
+ex_StrToNum.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_StrToNum.nxc
+END
+ex_BTInputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTInputBufferOutPtr.nxc
+END
+ex_SoundMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SoundMode.nxc
+END
+ex_ldiv.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_ldiv.nxc
+END
+ex_setdisplaycontrast.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setdisplaycontrast.nxc
+END
+ex_HTRCXCalibrateEvent.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXCalibrateEvent.nxc
+END
+ex_sysfiledelete.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfiledelete.nxc
+END
+ex_HTRCXOrVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXOrVar.nxc
+END
+ex_motorregivalue.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motorregivalue.nxc
+END
+ex_muldiv32.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_muldiv32.nxc
+END
+ex_SetHSSpeed.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetHSSpeed.nxc
+END
+ex_onfwdsyncex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onfwdsyncex.nxc
+END
+ex_NRLinkIRShort.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_NRLinkIRShort.nxc
+END
+ex_motorturnratio.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motorturnratio.nxc
+END
+ex_rotatemotorexpid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_rotatemotorexpid.nxc
+END
+ex_MSRCXSetEvent.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetEvent.nxc
+END
+ex_MSScoutSetSensorLower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSetSensorLower.nxc
+END
+ex_BTConnectionLinkQuality.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTConnectionLinkQuality.nxc
+END
+ex_TextOut.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_TextOut.nxc
+END
+ex_motortacholimit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motortacholimit.nxc
+END
+ex_MSRCXBatteryLevel.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXBatteryLevel.nxc
+END
+ex_MSDeenergize.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSDeenergize.nxc
+END
+ex_DisplayFlags.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_DisplayFlags.nxc
+END
+ex_DisplayUpdateMask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_DisplayUpdateMask.nxc
+END
+ex_HTRCXSumVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSumVar.nxc
+END
+ex_NumOut.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_NumOut.nxc
+END
+ex_OpenFileReadLinear.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_OpenFileReadLinear.nxc
+END
+ex_HTScoutCalibrateSensor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutCalibrateSensor.nxc
+END
+ex_SetButtonLongPressCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetButtonLongPressCount.nxc
+END
+ex_BTOutputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTOutputBufferInPtr.nxc
+END
+ex_HTRCXDeleteTask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXDeleteTask.nxc
+END
+ex_SetDisplayTextLinesCenterFlags.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetDisplayTextLinesCenterFlags.nxc
+END
+ex_GetInput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetInput.nxc
+END
+ex_StrIndex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_StrIndex.nxc
+END
+ex_SetHSOutputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetHSOutputBuffer.nxc
+END
+ex_WriteBytes.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_WriteBytes.nxc
+END
+ex_float.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_float.nxc
+END
+ex_SensorValue.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SensorValue.nxc
+END
+ex_sysdrawpoint.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysdrawpoint.nxc
+END
+ex_SensorDigiPinsOutputLevel.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorDigiPinsOutputLevel.nxc
+END
+ex_DISTNxGP2D120.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_DISTNxGP2D120.nxc
+END
+ex_ReadSensorHTRawColor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReadSensorHTRawColor.nxc
+END
+ex_MSRCXFloat.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXFloat.nxc
+END
+ex_HTRCXSetIRLinkPort.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetIRLinkPort.nxc
+END
+ex_SysWriteSemData.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SysWriteSemData.nxc
+END
+ex_findfirstfile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_findfirstfile.nxc
+END
+ex_RemoteStopProgram.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RemoteStopProgram.nxc
+END
+ex_ReadSensorHTRawColor2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_ReadSensorHTRawColor2.nxc
+END
+ex_SensorHTIRSeekerDir.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorHTIRSeekerDir.nxc
+END
+ex_clearline.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/352/tests/examples/ex_clearline.nxc
+END
+ex_dispgout.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_dispgout.nxc
+END
+ex_HTPFTrain.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/342/tests/examples/ex_HTPFTrain.nxc
+END
+ex_GraphicOutEx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GraphicOutEx.nxc
+END
+ex_MSRCXUnmuteSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXUnmuteSound.nxc
+END
+ex_SensorHTGyro.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/312/tests/examples/ex_SensorHTGyro.nxc
+END
+ex_MSRCXSetSensorMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetSensorMode.nxc
+END
+ex_HTScoutSetSensorLowerLimit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_HTScoutSetSensorLowerLimit.nxc
+END
+ex_SetSensorLight.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensorLight.nxc
+END
+ex_SendRemoteNumber.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SendRemoteNumber.nxc
+END
+ex_setsensorcolorred.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setsensorcolorred.nxc
+END
+ex_ReadBytes.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReadBytes.nxc
+END
+ex_SetSoundSampleRate.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSoundSampleRate.nxc
+END
+ex_MSRCXEnableOutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXEnableOutput.nxc
+END
+ex_ColorCalibration.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_ColorCalibration.nxc
+END
+ex_SensorHTIRSeeker2DCDir.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SensorHTIRSeeker2DCDir.nxc
+END
+ex_BTConnectionPinCode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTConnectionPinCode.nxc
+END
+ex_SetSensorType.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensorType.nxc
+END
+ex_SysCommHSCheckStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SysCommHSCheckStatus.nxc
+END
+ex_isspace.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_isspace.nxc
+END
+ex_onrevreg.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onrevreg.nxc
+END
+ex_motorrotationcount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motorrotationcount.nxc
+END
+ex_SensorNormalized.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorNormalized.nxc
+END
+ex_HTRCXClearCounter.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXClearCounter.nxc
+END
+ex_SetHSInputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetHSInputBuffer.nxc
+END
+ex_ReadSensorColorEx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_ReadSensorColorEx.nxc
+END
+ex_CustomSensorActiveStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_CustomSensorActiveStatus.nxc
+END
+ex_SetLSInputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSInputBuffer.nxc
+END
+ex_onfwdsyncexpid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/303/tests/examples/ex_onfwdsyncexpid.nxc
+END
+ex_sysdrawline.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysdrawline.nxc
+END
+ex_SetDisplayPopup.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetDisplayPopup.nxc
+END
+ex_sysfileopenwritelinear.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfileopenwritelinear.nxc
+END
+ex_LSOutputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSOutputBufferOutPtr.nxc
+END
+ex_onfwdex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onfwdex.nxc
+END
+ex_ResetSensor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ResetSensor.nxc
+END
+ex_MSRCXSetMessage.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetMessage.nxc
+END
+ex_HTRCXMulVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXMulVar.nxc
+END
+ex_SetUSBInputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUSBInputBuffer.nxc
+END
+ex_ClearSensor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ClearSensor.nxc
+END
+ex_SendResponseNumber.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SendResponseNumber.nxc
+END
+ex_SetLSInputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSInputBufferOutPtr.nxc
+END
+ex_SensorHTColorNum.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorHTColorNum.nxc
+END
+ex_RectOut.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RectOut.nxc
+END
+ex_ReadSensorHTNormalizedColor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReadSensorHTNormalizedColor.nxc
+END
+ex_HTRCXOn.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXOn.nxc
+END
+ex_resetblocktachocount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_resetblocktachocount.nxc
+END
+ex_resetalltachocounts.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_resetalltachocounts.nxc
+END
+ex_ColorCalibrationState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_ColorCalibrationState.nxc
+END
+ex_LongAbort.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LongAbort.nxc
+END
+ex_MSScoutSetSensorClickTime.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSetSensorClickTime.nxc
+END
+ex_HTRCXStartTask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXStartTask.nxc
+END
+ex_SysSetSleepTimeout.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_SysSetSleepTimeout.nxc
+END
+ex_UsbState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_UsbState.nxc
+END
+glRotateDemo.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/338/tests/examples/glRotateDemo.nxc
+END
+ex_PlayTone.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_PlayTone.nxc
+END
+ex_MSRCXPlaySound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXPlaySound.nxc
+END
+util_battery_1.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/381/tests/examples/util_battery_1.nxc
+END
+ex_SetCustomSensorPercentFullScale.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetCustomSensorPercentFullScale.nxc
+END
+ex_ArrayBuild.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/307/tests/examples/ex_ArrayBuild.nxc
+END
+ex_SensorMSCompass.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_SensorMSCompass.nxc
+END
+ex_NRLinkStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_NRLinkStatus.nxc
+END
+ex_BatteryLevel.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BatteryLevel.nxc
+END
+ex_motorblocktachocount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motorblocktachocount.nxc
+END
+ex_HTRCXSet.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSet.nxc
+END
+ex_SoundFlags.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SoundFlags.nxc
+END
+ex_MSRCXDecCounter.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXDecCounter.nxc
+END
+ex_SetSoundMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSoundMode.nxc
+END
+ex_coast.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_coast.nxc
+END
+ex_RemoteStopSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RemoteStopSound.nxc
+END
+ex_HTScoutSetSensorUpper.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSetSensorUpper.nxc
+END
+ex_setoutput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_setoutput.nxc
+END
+ex_HTRCXClearAllEvents.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXClearAllEvents.nxc
+END
+ex_SetSensorDigiPinsDirection.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensorDigiPinsDirection.nxc
+END
+ex_GetDisplayNormal.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetDisplayNormal.nxc
+END
+ex_I2CCheckStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_I2CCheckStatus.nxc
+END
+ex_MSPFComboDirect.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSPFComboDirect.nxc
+END
+ex_BTConnectionHandleNum.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTConnectionHandleNum.nxc
+END
+ex_SetLSOutputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSOutputBufferInPtr.nxc
+END
+ex_USBOutputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_USBOutputBufferOutPtr.nxc
+END
+ex_tan.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_tan.nxc
+END
+ex_DisplayTextLinesCenterFlags.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_DisplayTextLinesCenterFlags.nxc
+END
+ex_MSRCXSelectProgram.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSelectProgram.nxc
+END
+ex_SetUIButton.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUIButton.nxc
+END
+ex_SendRS485String.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SendRS485String.nxc
+END
+ex_strncmp.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/321/tests/examples/ex_strncmp.nxc
+END
+ex_fflush.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_fflush.nxc
+END
+ex_sysfileopenreadlinear.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfileopenreadlinear.nxc
+END
+ex_rewind.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_rewind.nxc
+END
+ex_MSScoutSelectSounds.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSelectSounds.nxc
+END
+ex_BTDeviceStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTDeviceStatus.nxc
+END
+ex_sqrt.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_sqrt.nxc
+END
+ex_RemotePlaySoundFile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RemotePlaySoundFile.nxc
+END
+ex_sysfileresolvehandle.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfileresolvehandle.nxc
+END
+ex_DisplayDisplay.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_DisplayDisplay.nxc
+END
+ex_setsensorcolorblue.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setsensorcolorblue.nxc
+END
+ex_MSRCXEvent.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXEvent.nxc
+END
+ex_SetDisplayUpdateMask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetDisplayUpdateMask.nxc
+END
+ex_sign.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_sign.nxc
+END
+ex_midstr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_midstr.nxc
+END
+ex_sysfileclose.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfileclose.nxc
+END
+ex_SetLSOutputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSOutputBuffer.nxc
+END
+ex_MSRCXOnRev.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXOnRev.nxc
+END
+ex_SetDisplayDisplay.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetDisplayDisplay.nxc
+END
+ex_FormatNum.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_FormatNum.nxc
+END
+ex_RS485Init.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_RS485Init.nxc
+END
+ex_SetInput.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetInput.nxc
+END
+ex_sethtcolor2mode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_sethtcolor2mode.nxc
+END
+ex_RS485Exit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_RS485Exit.nxc
+END
+ex_MSScoutSetSensorUpper.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSetSensorUpper.nxc
+END
+ex_OnBrickProgramPointer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_OnBrickProgramPointer.nxc
+END
+ex_MSRCXBoot.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXBoot.nxc
+END
+ex_onrevsyncexpid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/303/tests/examples/ex_onrevsyncexpid.nxc
+END
+ex_RS485Read.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_RS485Read.nxc
+END
+ex_MSRCXPlayToneVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXPlayToneVar.nxc
+END
+ex_SetSensorDigiPinsOutputLevel.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensorDigiPinsOutputLevel.nxc
+END
+ex_MSScoutSetSensorHysteresis.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutSetSensorHysteresis.nxc
+END
+ex_HTRCXSetGlobalDirection.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetGlobalDirection.nxc
+END
+ex_MSRCXOff.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXOff.nxc
+END
+ex_HTRCXClearSensor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXClearSensor.nxc
+END
+ex_onrev.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onrev.nxc
+END
+ex_exp.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_exp.nxc
+END
+ex_HTRCXSetTxPower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetTxPower.nxc
+END
+ex_SetUSBInputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUSBInputBufferOutPtr.nxc
+END
+ex_fseek.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_fseek.nxc
+END
+ex_MSScoutCalibrateSensor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSScoutCalibrateSensor.nxc
+END
+ex_StopSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_StopSound.nxc
+END
+ex_syscommbtconnection.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_syscommbtconnection.nxc
+END
+ex_sysfileresize.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_sysfileresize.nxc
+END
+ex_MSPFSingleOutputCST.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_MSPFSingleOutputCST.nxc
+END
+ex_RemoteResetMotorPosition.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_RemoteResetMotorPosition.nxc
+END
+ex_HTRCXRev.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXRev.nxc
+END
+ex_HTRCXClearMsg.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXClearMsg.nxc
+END
+ex_setsensorcolorfull.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setsensorcolorfull.nxc
+END
+ex_SysReadSemData.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SysReadSemData.nxc
+END
+ex_GetUSBPollBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetUSBPollBuffer.nxc
+END
+ex_SetSoundDuration.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSoundDuration.nxc
+END
+ex_MSRCXDeleteSubs.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXDeleteSubs.nxc
+END
+ex_sysmessageread.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysmessageread.nxc
+END
+alternating_tasks.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/381/tests/examples/alternating_tasks.nxc
+END
+ex_MSRCXSelectDisplay.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSelectDisplay.nxc
+END
+ex_HTRCXAndVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXAndVar.nxc
+END
+ex_islower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_islower.nxc
+END
+ex_motorrunstate.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motorrunstate.nxc
+END
+ex_BrickDataTimeoutValue.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BrickDataTimeoutValue.nxc
+END
+glTranslateDemo.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/365/tests/examples/glTranslateDemo.nxc
+END
+ex_tanh.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_tanh.nxc
+END
+ex_SetUSBOutputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUSBOutputBufferInPtr.nxc
+END
+ex_ByteArrayToStr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ByteArrayToStr.nxc
+END
+ex_asind.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_asind.nxc
+END
+ex_MSRCXStopAllTasks.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXStopAllTasks.nxc
+END
+ex_DisplayEraseMask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_DisplayEraseMask.nxc
+END
+ex_HSOutputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HSOutputBufferOutPtr.nxc
+END
+ex_LSInputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSInputBufferOutPtr.nxc
+END
+ex_SetCommandFlags.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetCommandFlags.nxc
+END
+ex_ReceiveRemoteNumber.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReceiveRemoteNumber.nxc
+END
+ex_Sensor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_Sensor.nxc
+END
+ex_UnflattenVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_UnflattenVar.nxc
+END
+ex_MSRCXClearMsg.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXClearMsg.nxc
+END
+ex_SendRS485Bool.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SendRS485Bool.nxc
+END
+ex_HSState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HSState.nxc
+END
+ex_setsensormspressure.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setsensormspressure.nxc
+END
+ex_HSMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_HSMode.nxc
+END
+ex_BrickDataBtStateStatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BrickDataBtStateStatus.nxc
+END
+ex_HTRCXPoll.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXPoll.nxc
+END
+ex_SendResponseBool.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SendResponseBool.nxc
+END
+ex_SetSensor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensor.nxc
+END
+ex_SetSleepTimer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSleepTimer.nxc
+END
+ex_HTRCXReset.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXReset.nxc
+END
+ex_HTRCXMuteSound.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXMuteSound.nxc
+END
+util_battery_2.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/381/tests/examples/util_battery_2.nxc
+END
+ex_sysdisplayexecutefunction.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysdisplayexecutefunction.nxc
+END
+ex_CreateFileLinear.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_CreateFileLinear.nxc
+END
+ex_HTRCXAddToDatalog.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXAddToDatalog.nxc
+END
+ex_SetLongAbort.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLongAbort.nxc
+END
+ex_HTIRTrain.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTIRTrain.nxc
+END
+ex_setsensorcolornone.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_setsensorcolornone.nxc
+END
+ex_sysdrawpolygon.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/318/tests/examples/ex_sysdrawpolygon.nxc
+END
+ex_ReadLn.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReadLn.nxc
+END
+ex_ButtonLongReleaseCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ButtonLongReleaseCount.nxc
+END
+ex_ButtonShortReleaseCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ButtonShortReleaseCount.nxc
+END
+ex_LSOutputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSOutputBufferInPtr.nxc
+END
+ex_abort.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_abort.nxc
+END
+ex_StopTask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_StopTask.nxc
+END
+ex_i2cvendorid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_i2cvendorid.nxc
+END
+ex_FreeMemory.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_FreeMemory.nxc
+END
+ex_SetLSSpeed.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSSpeed.nxc
+END
+ex_onfwdreg.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onfwdreg.nxc
+END
+ex_SensorMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorMode.nxc
+END
+ex_Release.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/350/tests/examples/ex_Release.nxc
+END
+ex_MSRCXSetSleepTime.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetSleepTime.nxc
+END
+ex_SetButtonLongReleaseCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetButtonLongReleaseCount.nxc
+END
+ex_HTRCXIncCounter.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXIncCounter.nxc
+END
+ex_onrevsyncpid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/303/tests/examples/ex_onrevsyncpid.nxc
+END
+ex_syscommexecutefunction.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syscommexecutefunction.nxc
+END
+ex_rand.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_rand.nxc
+END
+ex_MSRCXDeleteTasks.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXDeleteTasks.nxc
+END
+ex_IOMA.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_IOMA.nxc
+END
+ex_syssoundgetstate.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syssoundgetstate.nxc
+END
+ex_ArrayStd.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_ArrayStd.nxc
+END
+ex_SetDisplayNormal.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetDisplayNormal.nxc
+END
+ex_MSRCXAbsVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXAbsVar.nxc
+END
+ex_syscommlscheckstatus.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syscommlscheckstatus.nxc
+END
+ex_MSRCXStartTask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXStartTask.nxc
+END
+ex_SetDisplayFlags.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetDisplayFlags.nxc
+END
+ex_atol.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_atol.nxc
+END
+ex_sysiomapread.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysiomapread.nxc
+END
+ex_NRLink2400.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_NRLink2400.nxc
+END
+ex_motormode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motormode.nxc
+END
+ex_FlattenVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_FlattenVar.nxc
+END
+ex_SetHSInputBufferInPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetHSInputBufferInPtr.nxc
+END
+ex_LowspeedBytesReady.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LowspeedBytesReady.nxc
+END
+ex_sysfilefindnext.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfilefindnext.nxc
+END
+ex_DISTNxModuleType.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_DISTNxModuleType.nxc
+END
+ex_SensorMSDROD.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_SensorMSDROD.nxc
+END
+ex_sleeptime.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_sleeptime.nxc
+END
+ex_SetSensorLowspeed.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensorLowspeed.nxc
+END
+ex_ReadSensorHTAccel.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReadSensorHTAccel.nxc
+END
+ex_HTRCXOnFor.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXOnFor.nxc
+END
+ex_sysloaderexecutefunction.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysloaderexecutefunction.nxc
+END
+ex_HTRCXClearTimer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXClearTimer.nxc
+END
+ex_SensorMSPressure.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SensorMSPressure.nxc
+END
+ex_MSRCXDeleteTask.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXDeleteTask.nxc
+END
+ex_SetHSFlags.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetHSFlags.nxc
+END
+ex_ReadButtonEx.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ReadButtonEx.nxc
+END
+ex_CloseFile.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_CloseFile.nxc
+END
+ex_strcmp.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/311/tests/examples/ex_strcmp.nxc
+END
+ex_MSRCXPing.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXPing.nxc
+END
+ex_strtod.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_strtod.nxc
+END
+ex_MSRCXSetVar.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_MSRCXSetVar.nxc
+END
+ex_SetSensorHTGyro.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetSensorHTGyro.nxc
+END
+ex_atan.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/bricxcc/!svn/ver/392/tests/examples/ex_atan.nxc
+END
+ex_SensorHTIRSeeker2ACDir.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SensorHTIRSeeker2ACDir.nxc
+END
+ex_SetVMRunState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetVMRunState.nxc
+END
+ex_StopAllTasks.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_StopAllTasks.nxc
+END
+ex_onrevregex.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_onrevregex.nxc
+END
+ex_BrickDataName.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BrickDataName.nxc
+END
+ex_ArraySort.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/317/tests/examples/ex_ArraySort.nxc
+END
+ex_I2CSendCommand.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_I2CSendCommand.nxc
+END
+ex_SetUSBPollBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetUSBPollBuffer.nxc
+END
+ex_HTRCXSetMaxPower.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetMaxPower.nxc
+END
+ex_strtol.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/353/tests/examples/ex_strtol.nxc
+END
+ex_sysfilefindfirst.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysfilefindfirst.nxc
+END
+ex_GetDisplayPopup.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_GetDisplayPopup.nxc
+END
+ex_SetBTOutputBuffer.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetBTOutputBuffer.nxc
+END
+ex_BTDeviceNameCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_BTDeviceNameCount.nxc
+END
+ex_HTRCXPlayTone.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXPlayTone.nxc
+END
+ex_HTRCXSetDirection.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXSetDirection.nxc
+END
+ex_abs.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_abs.nxc
+END
+ex_sysiomapreadbyid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_sysiomapreadbyid.nxc
+END
+ex_syscall.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_syscall.nxc
+END
+ex_SetHSInputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetHSInputBufferOutPtr.nxc
+END
+ex_ReadSensorColorRaw.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_ReadSensorColorRaw.nxc
+END
+ex_MSScoutSetSensorUpperLimit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/bricxcc/!svn/ver/358/tests/examples/ex_MSScoutSetSensorUpperLimit.nxc
+END
+ex_SensorInvalid.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SensorInvalid.nxc
+END
+ex_SubStr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/320/tests/examples/ex_SubStr.nxc
+END
+ex_NRLinkTxRaw.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/433/tests/examples/ex_NRLinkTxRaw.nxc
+END
+ex_LSMode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_LSMode.nxc
+END
+ex_SetLSOutputBufferOutPtr.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_SetLSOutputBufferOutPtr.nxc
+END
+ex_ButtonCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ButtonCount.nxc
+END
+ex_isxdigit.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_isxdigit.nxc
+END
+ex_ButtonReleaseCount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_ButtonReleaseCount.nxc
+END
+ex_HTRCXDeleteSub.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTRCXDeleteSub.nxc
+END
+ex_HTScoutSelectSounds.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_HTScoutSelectSounds.nxc
+END
+ex_SysDatalogWrite.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/363/tests/examples/ex_SysDatalogWrite.nxc
+END
+ex_isupper.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_isupper.nxc
+END
+ex_motortachocount.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/bricxcc/!svn/ver/298/tests/examples/ex_motortachocount.nxc
+END
+ex_RemoteSetOutputState.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/bricxcc/!svn/ver/351/tests/examples/ex_RemoteSetOutputState.nxc
+END
+ex_memcpy.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/302/tests/examples/ex_memcpy.nxc
+END
+ex_sethsmode.nxc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/bricxcc/!svn/ver/304/tests/examples/ex_sethsmode.nxc
+END

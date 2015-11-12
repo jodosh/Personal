@@ -1,0 +1,22 @@
+
+
+task main()
+{
+  long myA = 2147483647;
+  long myB = 2000000000;
+  long myC = 2000000000;
+  long res;
+  res = muldiv32(myA,myB,myC);
+  NumOut(0,LCD_LINE1,myA);
+  NumOut(0,LCD_LINE2,myB);
+  NumOut(0,LCD_LINE3,myC);
+  if (res < 0) {
+    TextOut(0, LCD_LINE4, "<0" );
+  }
+  else {
+    NumOut(0,LCD_LINE4,res);
+  }
+  Wait(4000);
+};
+
+

@@ -1,0 +1,34 @@
+#define Element_Out(x, n) NumOut(x, LCD_LINE##n, data[n-1])
+
+task main()
+{
+  byte matrix[][];
+  byte data[] = {0, 1, 0, 1, 1, 0};
+  byte data2[] = {3, 4, 5, 6, 7, 8};
+  ArrayBuild(matrix, data, data2, data);
+  data = !matrix[1];
+//  data = !data;
+  data += matrix[1]; // JCH 2009-06-01 This line generates bad code
+//	add __main_7qG2_data_7qG2_000, __ArrHelper__main_244_0, __D0main
+  Element_Out(0, 1);
+  Element_Out(0, 2);
+  Element_Out(0, 3);
+  Element_Out(0, 4);
+  Element_Out(0, 5);
+  Element_Out(0, 6);
+  data++;
+  Element_Out(40, 1);
+  Element_Out(40, 2);
+  Element_Out(40, 3);
+  Element_Out(40, 4);
+  Element_Out(40, 5);
+  Element_Out(40, 6);
+  data += 20;
+  Element_Out(80, 1);
+  Element_Out(80, 2);
+  Element_Out(80, 3);
+  Element_Out(80, 4);
+  Element_Out(80, 5);
+  Element_Out(80, 6);
+  while(true);
+}

@@ -1,0 +1,69 @@
+/*------------------------------------------------------------------------------
+; File          : glTranslateDemo.nbc
+; Description   : A program demonstrating two 3D boxes with translate actions...
+; Programmed by : Arno van der Vegt, avandervegt@home.nl
+;-----------------------------------------------------------------------------*/
+
+int translateX, translateXStep,
+    translateY, translateYStep,
+    translateZ, translateZStep;
+
+task main()
+{
+  // Initialize the 3D engine...
+  glInit();
+  
+  // Create a box, this is the first object which will be object id 0...
+  glBox(GL_POLYGON, 20, 20, 20);
+  
+  // Create a box, this is the second object which will be object id 1...
+  glBox(GL_POLYGON, 40, 40, 40);
+
+  glSetAngleX(30);
+  
+  translateX      = 0;
+  translateXStep  = 1;
+  translateY      = 0;
+  translateYStep  = 1;
+  translateZ      = 0;
+  translateZStep  = 2;
+  while (true)
+  {
+    // Rotate the main view....
+    glAddToAngleY(2);
+    // Setup for rendering...
+    glBeginRender();
+    glSet(GL_CULL_MODE, GL_CULL_NONE);
+
+    // Call the object with id 0...
+    glCallObject(0);
+    glObjectAction(0, GL_TRANSLATE_X, translateX);
+    glObjectAction(0, GL_TRANSLATE_Z, translateZ);
+    glObjectAction(0, GL_TRANSLATE_Y, translateY);
+
+    // Call the object with id 1...
+    glCallObject(1);
+
+    // Finish, clear the screen, rotate and render the called objects...
+    glFinishRender();
+
+    translateX += translateXStep;
+    if (translateX >= 10)
+      translateXStep = -1;
+    else if (translateX <= -10)
+      translateXStep = 1;
+
+    translateZ += translateZStep;
+    if (translateZ >= 10)
+      translateZStep = -2;
+    else if (translateZ <= -10)
+      translateZStep = 2;
+      
+    translateY += translateYStep;
+    if (translateY >= 10)
+      translateYStep = -1;
+    else if (translateY <= -10)
+      translateYStep = 1;
+  }
+}
+

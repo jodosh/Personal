@@ -1,0 +1,29 @@
+#define macro(port) \
+  my##port = port
+
+long myVar=2+3+4+5, y=-23+45, z=(3+4)*4;
+string msg="testing" , buf="fred" ;
+
+task main()
+{
+  int my2=23+4;
+  string localMsg="fred" ;
+  macro(2);
+  StopSound();
+  my2=myVar-y+z;
+  ClearScreen();
+  NumOut(0, 0, my2);
+  asm {
+    mov myVar, 30
+//    weird
+//    foo bar
+  }
+  ClearScreen();
+  NumOut(0, 0, my2);
+  
+  SetOutput(OUT_A,
+            UpdateFlags,
+            UF_UPDATE_RESET_ROTATION_COUNT|UF_UPDATE_RESET_BLOCK_COUNT);
+
+}
+

@@ -1,0 +1,19 @@
+// JCH working as of 2009-03-16
+
+task main()
+{
+   float x, y, s;
+   x = 3.141592;
+   y = PI;
+   s = sqrt(2.0);
+   float A[2][2] = {{1.5, 3.5}, {5.6, 4.5}};
+   TextOut(0,LCD_LINE1, FormatNum("pi: %.5f",x)); //x is printed correctly
+   TextOut(0,LCD_LINE2, FormatNum("pi: %.5f",y)); //y is printed correctly
+   NumOut(0,LCD_LINE3,y); // prints 3.1416
+   TextOut(0,LCD_LINE4, FormatNum("s= %f",s)); // s is displayed as 1.414214
+   NumOut( 0,LCD_LINE5,A[0][0]);
+   NumOut(40,LCD_LINE5,A[0][1]);
+   NumOut( 0,LCD_LINE6,A[1][0]);
+   NumOut(40,LCD_LINE6,A[1][1]);
+   while(true);
+}

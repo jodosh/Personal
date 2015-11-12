@@ -1,0 +1,158 @@
+object frmNXTImagePrefs: TfrmNXTImagePrefs
+  Left = 365
+  Height = 273
+  Top = 170
+  Width = 428
+  BorderStyle = bsDialog
+  Caption = 'NeXT Screen Preferences'
+  ClientHeight = 273
+  ClientWidth = 428
+  Font.Height = -11
+  OnCreate = FormCreate
+  Position = poScreenCenter
+  LCLVersion = '0.9.27'
+  object lblBackgroundColor: TLabel
+    Left = 8
+    Height = 16
+    Top = 9
+    Width = 96
+    Caption = 'Background color:'
+    ParentColor = False
+  end
+  object lblBaseFilename: TLabel
+    Left = 8
+    Height = 16
+    Top = 38
+    Width = 77
+    Caption = 'Base filename:'
+    FocusControl = edtBaseFilename
+    ParentColor = False
+  end
+  object lblNQCPath: TLabel
+    Left = 8
+    Height = 16
+    Top = 63
+    Width = 129
+    Caption = 'Default Image directory:'
+    ParentColor = False
+  end
+  object lblImageTypes: TLabel
+    Left = 8
+    Height = 16
+    Top = 90
+    Width = 69
+    Caption = 'Image types:'
+    ParentColor = False
+  end
+  object btnOK: TButton
+    Left = 256
+    Height = 25
+    Top = 240
+    Width = 75
+    Caption = 'OK'
+    Default = True
+    ModalResult = 1
+    TabOrder = 5
+  end
+  object btnCancel: TButton
+    Left = 338
+    Height = 25
+    Top = 240
+    Width = 75
+    Cancel = True
+    Caption = 'Cancel'
+    ModalResult = 2
+    TabOrder = 6
+  end
+  object cbxBackgroundColor: TColorBox
+    Left = 168
+    Height = 20
+    Top = 7
+    Width = 128
+    DefaultColorColor = clMoneyGreen
+    Selected = clMoneyGreen
+    ItemHeight = 16
+    TabOrder = 0
+  end
+  object edtBaseFilename: TEdit
+    Left = 172
+    Height = 13
+    Top = 40
+    Width = 245
+    TabOrder = 1
+    Text = 'nxtimage_'
+  end
+  object edtDefaultDir2: TEdit
+    Left = 172
+    Height = 13
+    Top = 65
+    Width = 245
+    AutoSize = False
+    TabOrder = 2
+  end
+  object grpAutoFilenames: TGroupBox
+    Left = 170
+    Height = 113
+    Top = 120
+    Width = 243
+    Caption = 'Automatic filenames'
+    ClientHeight = 93
+    ClientWidth = 235
+    TabOrder = 4
+    object lblCurrentIndex: TLabel
+      Left = 30
+      Height = 16
+      Top = 31
+      Width = 76
+      Caption = 'Current index:'
+      FocusControl = edtCurrentIndex
+      ParentColor = False
+    end
+    object rbUseIndex: TRadioButton
+      Left = 6
+      Height = 18
+      Top = 8
+      Width = 73
+      Caption = 'Use index'
+      Checked = True
+      OnClick = rbUseIndexClick
+      State = cbChecked
+      TabOrder = 0
+    end
+    object rbUseTimestamp: TRadioButton
+      Left = 6
+      Height = 18
+      Top = 64
+      Width = 100
+      Caption = 'Use timestamp'
+      OnClick = rbUseIndexClick
+      TabOrder = 2
+      TabStop = False
+    end
+    object edtCurrentIndex: TBricxccSpinEdit
+      Left = 112
+      Height = 13
+      Top = 29
+      Width = 60
+      MaxValue = 9999
+      MaxLength = 4
+      TabOrder = 1
+    end
+  end
+  object cboImageTypes: TComboBox
+    Left = 168
+    Height = 20
+    Top = 88
+    Width = 128
+    ItemHeight = 0
+    ItemIndex = 1
+    Items.Strings = (
+      'JPEG'
+      'PNG'
+      'BMP'
+    )
+    Style = csDropDownList
+    TabOrder = 3
+    Text = 'PNG'
+  end
+end

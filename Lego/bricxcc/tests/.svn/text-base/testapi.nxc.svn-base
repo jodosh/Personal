@@ -1,0 +1,18 @@
+
+task main()
+{
+  unsigned long blev = BatteryLevel();
+  NumOut(0, LCD_LINE1, blev);
+  int blev2 = BatteryLevel();
+  NumOut(0, LCD_LINE2, blev2);
+  blev = ULONG_MAX+blev2;
+  NumOut(0, LCD_LINE3, blev);
+  NumOut(0, LCD_LINE4, ULONG_MAX);
+  NumOut(0, LCD_LINE5, ULONG_MAX+100);
+  long tmp = ULONG_MAX+100;
+  NumOut(0, LCD_LINE6, tmp);
+  NumOut(0, LCD_LINE7, FreeMemory());
+  unsigned int tmpword = FreeMemory();
+  NumOut(0, LCD_LINE8, tmpword);
+  while(true);
+}

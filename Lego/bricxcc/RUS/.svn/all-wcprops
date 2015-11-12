@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svnroot/bricxcc/!svn/ver/17/RUS
+END
+About.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/1/RUS/About.dfm
+END
+About.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bricxcc/!svn/ver/10/RUS/About.dfn
+END
+Controller.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/RUS/Controller.dfm
+END
+Transfer.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/1/RUS/Transfer.dfm
+END
+Controller.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/10/RUS/Controller.dfn
+END
+Transfer.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/10/RUS/Transfer.dfn
+END
+uProjectManager.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/1/RUS/uProjectManager.dfm
+END
+uProjectManager.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/10/RUS/uProjectManager.dfn
+END
+uWav2RSO.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/10/RUS/uWav2RSO.dfm
+END
+uWav2RSO.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/10/RUS/uWav2RSO.dfn
+END
+Unlock.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bricxcc/!svn/ver/1/RUS/Unlock.dfm
+END
+Unlock.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/10/RUS/Unlock.dfn
+END
+JoystickUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/1/RUS/JoystickUnit.dfm
+END
+ToolbarBackground.rc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/10/RUS/ToolbarBackground.rc
+END
+JoystickUnit.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/10/RUS/JoystickUnit.dfn
+END
+BricxCC.res
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/1/RUS/BricxCC.res
+END
+uSetValues.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/RUS/uSetValues.dfm
+END
+uExplorerOptions.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/1/RUS/uExplorerOptions.dfm
+END
+uSetValues.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/10/RUS/uSetValues.dfn
+END
+uExplorerOptions.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/10/RUS/uExplorerOptions.dfn
+END
+uNXTController.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/1/RUS/uNXTController.dfm
+END
+uNXTController.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/10/RUS/uNXTController.dfn
+END
+uNewWatch.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/1/RUS/uNewWatch.dfm
+END
+uSeriesConfig.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/1/RUS/uSeriesConfig.dfm
+END
+Watch.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/1/RUS/Watch.dfm
+END
+uNewWatch.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/10/RUS/uNewWatch.dfn
+END
+uSeriesConfig.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/10/RUS/uSeriesConfig.dfn
+END
+Watch.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bricxcc/!svn/ver/10/RUS/Watch.dfn
+END
+uMacroForm.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/10/RUS/uMacroForm.dfm
+END
+VistaManifest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/10/RUS/VistaManifest.rc
+END
+DatalogUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/RUS/DatalogUnit.dfm
+END
+uMacroForm.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/10/RUS/uMacroForm.dfn
+END
+DatalogUnit.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/10/RUS/DatalogUnit.dfn
+END
+EditCodeTemplate.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/1/RUS/EditCodeTemplate.dfm
+END
+DataAnalysis.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/1/RUS/DataAnalysis.dfm
+END
+EditCodeTemplate.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/10/RUS/EditCodeTemplate.dfn
+END
+DataAnalysis.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/10/RUS/DataAnalysis.dfn
+END
+uNXTExplorer.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/1/RUS/uNXTExplorer.dfm
+END
+uCodeExplorer.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/1/RUS/uCodeExplorer.dfm
+END
+uNXTExplorer.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/10/RUS/uNXTExplorer.dfn
+END
+uCodeExplorer.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/10/RUS/uCodeExplorer.dfn
+END
+uPromptSeries.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/1/RUS/uPromptSeries.dfm
+END
+GX_ProcedureList.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/1/RUS/GX_ProcedureList.dfm
+END
+uPromptSeries.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/10/RUS/uPromptSeries.dfn
+END
+GX_ProcedureList.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/10/RUS/GX_ProcedureList.dfn
+END
+ConstructUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/1/RUS/ConstructUnit.dfm
+END
+ConstructUnit.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/10/RUS/ConstructUnit.dfn
+END
+Editor.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bricxcc/!svn/ver/1/RUS/Editor.dfm
+END
+Editor.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/10/RUS/Editor.dfn
+END
+uHEXViewer.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/RUS/uHEXViewer.dfm
+END
+uHEXViewer.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/10/RUS/uHEXViewer.dfn
+END
+Piano.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/bricxcc/!svn/ver/1/RUS/Piano.dfm
+END
+Piano.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/bricxcc/!svn/ver/10/RUS/Piano.dfn
+END
+uChartConfig.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/1/RUS/uChartConfig.dfm
+END
+uChartConfig.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/10/RUS/uChartConfig.dfn
+END
+uMIDIConversion.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/1/RUS/uMIDIConversion.dfm
+END
+uMIDIConversion.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/10/RUS/uMIDIConversion.dfn
+END
+BricxCC.dof
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/10/RUS/BricxCC.dof
+END
+NXTSound.rc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/10/RUS/NXTSound.rc
+END
+MainUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/1/RUS/MainUnit.dfm
+END
+MainUnit.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/10/RUS/MainUnit.dfn
+END
+uChartExport.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/1/RUS/uChartExport.dfm
+END
+uWindowList.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/RUS/uWindowList.dfm
+END
+PuzzleUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/RUS/PuzzleUnit.dfm
+END
+Diagnose.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/1/RUS/Diagnose.dfm
+END
+uChartExport.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/10/RUS/uChartExport.dfn
+END
+uWindowList.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/10/RUS/uWindowList.dfn
+END
+PuzzleUnit.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/10/RUS/PuzzleUnit.dfn
+END
+Diagnose.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/10/RUS/Diagnose.dfn
+END
+RemoteUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/RUS/RemoteUnit.dfm
+END
+RemoteUnit.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/10/RUS/RemoteUnit.dfn
+END
+uMacroEditor.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/1/RUS/uMacroEditor.dfm
+END
+uMacroEditor.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/10/RUS/uMacroEditor.dfn
+END
+uSetLNPAddress.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/1/RUS/uSetLNPAddress.dfm
+END
+uSetLNPAddress.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/10/RUS/uSetLNPAddress.dfn
+END
+DTestPrintPreview.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/bricxcc/!svn/ver/1/RUS/DTestPrintPreview.dfm
+END
+BricxCC_DRC.rc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/10/RUS/BricxCC_DRC.rc
+END
+DTestPrintPreview.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/bricxcc/!svn/ver/10/RUS/DTestPrintPreview.dfn
+END
+BricxCC.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/10/RUS/BricxCC.cfg
+END
+CodeUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/10/RUS/CodeUnit.dfm
+END
+CodeUnit.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/10/RUS/CodeUnit.dfn
+END
+uEEPROM.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/bricxcc/!svn/ver/1/RUS/uEEPROM.dfm
+END
+uEEPROM.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/10/RUS/uEEPROM.dfn
+END
+Transdlg.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/1/RUS/Transdlg.dfm
+END
+Transdlg.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/10/RUS/Transdlg.dfn
+END
+GotoLine.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/1/RUS/GotoLine.dfm
+END
+GotoLine.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/10/RUS/GotoLine.dfn
+END
+SearchRCX.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/1/RUS/SearchRCX.dfm
+END
+SearchRCX.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/10/RUS/SearchRCX.dfn
+END
+MessageUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/1/RUS/MessageUnit.dfm
+END
+MessageUnit.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/10/RUS/MessageUnit.dfn
+END
+uExtensionDlg.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/1/RUS/uExtensionDlg.dfm
+END
+CodeTemplates.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/bricxcc/!svn/ver/1/RUS/CodeTemplates.dfm
+END
+uExtensionDlg.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/10/RUS/uExtensionDlg.dfn
+END
+CodeTemplates.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/10/RUS/CodeTemplates.dfn
+END
+uForthConsole.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/10/RUS/uForthConsole.dfm
+END
+uForthConsole.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/10/RUS/uForthConsole.dfn
+END
+BricxCC.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/bricxcc/!svn/ver/10/RUS/BricxCC.dpr
+END
+Preferences.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/10/RUS/Preferences.dfm
+END
+DPageSetup.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/RUS/DPageSetup.dfm
+END
+uNXTImage.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/bricxcc/!svn/ver/1/RUS/uNXTImage.dfm
+END
+Preferences.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/bricxcc/!svn/ver/10/RUS/Preferences.dfn
+END
+DPageSetup.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/10/RUS/DPageSetup.dfn
+END
+uNXTImage.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/10/RUS/uNXTImage.dfn
+END
+MemoryUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/1/RUS/MemoryUnit.dfm
+END
+MemoryUnit.dfn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/10/RUS/MemoryUnit.dfn
+END

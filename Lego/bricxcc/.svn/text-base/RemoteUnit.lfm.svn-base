@@ -1,0 +1,491 @@
+object RemoteForm: TRemoteForm
+  Left = 220
+  Height = 343
+  Top = 219
+  Width = 184
+  HelpContext = 17
+  BorderIcons = [biSystemMenu, biHelp]
+  BorderStyle = bsDialog
+  Caption = 'Remote'
+  ClientHeight = 343
+  ClientWidth = 184
+  Font.Height = -11
+  OnHide = FormHide
+  OnShow = FormShow
+  LCLVersion = '0.9.27'
+  object Shape1: TShape
+    Left = 15
+    Height = 17
+    Top = 288
+    Width = 32
+    Brush.Color = clRed
+    Pen.Style = psClear
+    Shape = stRoundRect
+  end
+  object bclMessage: TBevel
+    Left = 11
+    Height = 9
+    Top = 86
+    Width = 161
+    Shape = bsTopLine
+  end
+  object lblMessage: TLabel
+    Left = 70
+    Height = 16
+    Top = 44
+    Width = 46
+    Caption = 'Message'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblMsg1: TLabel
+    Left = 23
+    Height = 13
+    Top = 65
+    Width = 17
+    Alignment = taCenter
+    AutoSize = False
+    Caption = '1'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblMsg2: TLabel
+    Left = 83
+    Height = 13
+    Top = 65
+    Width = 17
+    Alignment = taCenter
+    AutoSize = False
+    Caption = '2'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblMsg3: TLabel
+    Left = 143
+    Height = 13
+    Top = 65
+    Width = 17
+    Alignment = taCenter
+    AutoSize = False
+    Caption = '3'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblProgram: TLabel
+    Left = 72
+    Height = 16
+    Top = 225
+    Width = 45
+    Caption = 'Program'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblP1: TLabel
+    Left = 25
+    Height = 16
+    Top = 214
+    Width = 15
+    Alignment = taCenter
+    Caption = 'P1'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblP2: TLabel
+    Left = 145
+    Height = 16
+    Top = 214
+    Width = 15
+    Alignment = taCenter
+    Caption = 'P2'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblP3: TLabel
+    Left = 25
+    Height = 16
+    Top = 245
+    Width = 15
+    Alignment = taCenter
+    Caption = 'P3'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblP4: TLabel
+    Left = 85
+    Height = 16
+    Top = 245
+    Width = 15
+    Alignment = taCenter
+    Caption = 'P4'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblP5: TLabel
+    Left = 145
+    Height = 16
+    Top = 245
+    Width = 15
+    Alignment = taCenter
+    Caption = 'P5'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblStop: TLabel
+    Left = 51
+    Height = 16
+    Top = 289
+    Width = 26
+    Caption = 'Stop'
+    Font.Color = clRed
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblBeep: TLabel
+    Left = 116
+    Height = 16
+    Top = 289
+    Width = 21
+    Caption = '<|))'
+    Font.Height = -11
+    ParentColor = False
+    ParentFont = False
+  end
+  object imgIcon: TImage
+    Left = 76
+    Height = 32
+    Top = 5
+    Width = 32
+    Picture.Data = {
+      055449636F6EFE0200000000010001002020100000000000E802000016000000
+      2800000020000000400000000100040000000000800200000000000000000000
+      0000000000000000000000000000800000800000008080008000000080008000
+      80800000C0C0C000808080000000FF0000FF000000FFFF00FF000000FF00FF00
+      FFFF0000FFFFFF0000000000000000000000000000000000000000000BBBBBBB
+      BBBBBBBB00000000000000000BBBBBBBBBBBBBBB00000000000000000B000BB0
+      00BB000B00000000000000000B000BB000BB000B00000000000000000B000BB0
+      00BB000B00000000000000000BBBBBBBBBBBBBBB00000000000000000B99BBBB
+      BBBBBAAB00000000000000040BBBB8888888BBBB04000000000000040BBB8008
+      08008BBB040000000000044C0BBBB8888888BBBB0C4400000004444C0B00BBBB
+      BBBBB88B0C4444000044444C0BBBBBBBBBBBBBBB0C4444400444444C0B888BB8
+      88BB888B0C444444044444CC0B888BB888BB888B0CC4444404444CCC0B888BB8
+      88BB888B0CCC44440444CC000BBBBBBBBBBBBBBB000CC4440444C0000BBBB000
+      0000BBBB0000C4440444C00000000077777000000000C4440444C00000000777
+      777700000000C4440444C00000000799999700000000C4440444C00000000777
+      777700000000C4440444C00000007777777770000000C4440000000000000000
+      0000000000000000000000000779999777999977000000000000000007799997
+      77999977000000000000000007799F977799F977000000000000000000000000
+      0000000000000000000000000007777777777700000000000000000000077777
+      7777770000000000000000000000777777777000000000000000000000000000
+      0000000000000000FF00007FFF00007FFF00007FFF00007FFF00007FFF00007F
+      FF00007FFF00007FFE00003FFE00003FF800000FE0000003C000000180000000
+      800000008000000083000060870000708700007087F007F087F007F087F007F0
+      87E003F0878000F0CF0000798700007087000070938000E493C001E493C001E4
+      9FE003FC9FF007FC
+    }
+  end
+  object grpMotorA: TGroupBox
+    Left = 11
+    Height = 97
+    Top = 108
+    Width = 41
+    ClientHeight = 90
+    ClientWidth = 33
+    TabOrder = 4
+    object btnMotorAFwd: TSpeedButton
+      Tag = 1
+      Left = 5
+      Height = 14
+      Top = 9
+      Width = 23
+      AllowAllUp = True
+      Color = clBtnFace
+      GroupIndex = 4
+      NumGlyphs = 0
+      OnMouseDown = MotorMouseDown
+      OnMouseUp = MotorMouseUp
+    end
+    object btnMotorARwd: TSpeedButton
+      Tag = 5
+      Left = 5
+      Height = 14
+      Top = 69
+      Width = 23
+      AllowAllUp = True
+      Color = clBtnFace
+      GroupIndex = 4
+      NumGlyphs = 0
+      OnMouseDown = MotorMouseDown
+      OnMouseUp = MotorMouseUp
+    end
+    object barASpeed: TTrackBar
+      Left = 11
+      Height = 44
+      Top = 24
+      Width = 17
+      Max = 7
+      Orientation = trVertical
+      Position = 4
+      TabOrder = 0
+    end
+  end
+  object grpMotorB: TGroupBox
+    Left = 71
+    Height = 97
+    Top = 108
+    Width = 41
+    ClientHeight = 90
+    ClientWidth = 33
+    TabOrder = 6
+    object btnMotorBFwd: TSpeedButton
+      Tag = 2
+      Left = 5
+      Height = 14
+      Top = 9
+      Width = 23
+      AllowAllUp = True
+      Color = clBtnFace
+      GroupIndex = 5
+      NumGlyphs = 0
+      OnMouseDown = MotorMouseDown
+      OnMouseUp = MotorMouseUp
+    end
+    object btnMotorBRwd: TSpeedButton
+      Tag = 6
+      Left = 5
+      Height = 14
+      Top = 69
+      Width = 23
+      AllowAllUp = True
+      Color = clBtnFace
+      GroupIndex = 5
+      NumGlyphs = 0
+      OnMouseDown = MotorMouseDown
+      OnMouseUp = MotorMouseUp
+    end
+    object barBSpeed: TTrackBar
+      Left = 11
+      Height = 44
+      Top = 24
+      Width = 17
+      Max = 7
+      Orientation = trVertical
+      Position = 4
+      TabOrder = 0
+    end
+  end
+  object grpMotorC: TGroupBox
+    Left = 131
+    Height = 97
+    Top = 108
+    Width = 41
+    ClientHeight = 90
+    ClientWidth = 33
+    TabOrder = 8
+    object btnMotorCFwd: TSpeedButton
+      Tag = 4
+      Left = 5
+      Height = 14
+      Top = 9
+      Width = 23
+      AllowAllUp = True
+      Color = clBtnFace
+      GroupIndex = 6
+      NumGlyphs = 0
+      OnMouseDown = MotorMouseDown
+      OnMouseUp = MotorMouseUp
+    end
+    object btnMotorCRwd: TSpeedButton
+      Tag = 8
+      Left = 5
+      Height = 14
+      Top = 69
+      Width = 23
+      AllowAllUp = True
+      Color = clBtnFace
+      GroupIndex = 6
+      NumGlyphs = 0
+      OnMouseDown = MotorMouseDown
+      OnMouseUp = MotorMouseUp
+    end
+    object barCSpeed: TTrackBar
+      Left = 11
+      Height = 44
+      Top = 24
+      Width = 17
+      Max = 7
+      Orientation = trVertical
+      Position = 4
+      TabOrder = 0
+    end
+  end
+  object lblMotorA: TStaticText
+    Left = 7
+    Height = 27
+    Top = 141
+    Width = 17
+    HelpContext = 17024
+    Caption = 'A'
+    Font.Height = -19
+    Font.Style = [fsItalic]
+    ParentFont = False
+    TabOrder = 3
+  end
+  object lblMotorB: TStaticText
+    Left = 67
+    Height = 27
+    Top = 141
+    Width = 17
+    HelpContext = 17025
+    Caption = 'B'
+    Font.Height = -19
+    Font.Style = [fsItalic]
+    ParentFont = False
+    TabOrder = 5
+  end
+  object lblMotorC: TStaticText
+    Left = 127
+    Height = 27
+    Top = 141
+    Width = 18
+    HelpContext = 17026
+    Caption = 'C'
+    Font.Height = -19
+    Font.Style = [fsItalic]
+    ParentFont = False
+    TabOrder = 7
+  end
+  object btnProg1: TButton
+    Tag = 4
+    Left = 17
+    Height = 14
+    Top = 227
+    Width = 28
+    HelpContext = 17029
+    OnClick = ButtonClicked
+    OnMouseDown = ProgramMouseDown
+    TabOrder = 9
+  end
+  object btnProg5: TButton
+    Tag = 8
+    Left = 137
+    Height = 14
+    Top = 258
+    Width = 28
+    HelpContext = 17030
+    OnClick = ButtonClicked
+    OnMouseDown = ProgramMouseDown
+    TabOrder = 13
+  end
+  object btnProg4: TButton
+    Tag = 7
+    Left = 77
+    Height = 14
+    Top = 258
+    Width = 28
+    HelpContext = 17031
+    OnClick = ButtonClicked
+    OnMouseDown = ProgramMouseDown
+    TabOrder = 12
+  end
+  object btnProg3: TButton
+    Tag = 6
+    Left = 17
+    Height = 14
+    Top = 258
+    Width = 28
+    HelpContext = 17032
+    OnClick = ButtonClicked
+    OnMouseDown = ProgramMouseDown
+    TabOrder = 11
+  end
+  object btnProg2: TButton
+    Tag = 5
+    Left = 137
+    Height = 14
+    Top = 227
+    Width = 28
+    HelpContext = 17033
+    OnClick = ButtonClicked
+    OnMouseDown = ProgramMouseDown
+    TabOrder = 10
+  end
+  object btnBeep: TButton
+    Tag = 10
+    Left = 137
+    Height = 14
+    Top = 289
+    Width = 28
+    HelpContext = 17034
+    OnClick = ButtonClicked
+    OnMouseDown = ProgramMouseDown
+    TabOrder = 15
+  end
+  object btnMsg1: TButton
+    Tag = 1
+    Left = 20
+    Height = 14
+    Top = 80
+    Width = 23
+    HelpContext = 17035
+    OnClick = ButtonClicked
+    TabOrder = 0
+  end
+  object btnMsg2: TButton
+    Tag = 2
+    Left = 80
+    Height = 14
+    Top = 80
+    Width = 23
+    HelpContext = 17036
+    OnClick = ButtonClicked
+    TabOrder = 1
+  end
+  object btnMsg3: TButton
+    Tag = 3
+    Left = 140
+    Height = 14
+    Top = 80
+    Width = 23
+    HelpContext = 17037
+    OnClick = ButtonClicked
+    TabOrder = 2
+  end
+  object btnHelp: TButton
+    Left = 66
+    Height = 25
+    Top = 314
+    Width = 52
+    HelpContext = 17038
+    Caption = '&Help'
+    OnClick = btnHelpClick
+    TabOrder = 16
+  end
+  object btnStop: TButton
+    Tag = 9
+    Left = 17
+    Height = 14
+    Top = 289
+    Width = 28
+    HelpContext = 17028
+    OnClick = ButtonClicked
+    TabOrder = 14
+  end
+  object tmrMain: TTimer
+    Enabled = False
+    Interval = 125
+    OnTimer = tmrMainTimer
+    left = 136
+    top = 16
+  end
+end

@@ -1,0 +1,29 @@
+task chase()
+{
+  int a;
+  int theta;
+  int beta;
+  int c=0;
+
+  
+  SetSensorLowspeed(IN_4);
+  while(true) {
+    a=SensorUS(IN_4);
+    c++;
+    ClearScreen();
+    NumOut(1,1,c);
+    NumOut(20,20,a);
+    // When the "if" is commented out the sensor works fine.
+    // When the "if" is uncommented the sonar can only see objects that
+    // are close to it.
+    if(0 > 1) {
+      TextOut(30, 30, "strange" );
+    }
+  }
+}
+
+task main()
+{
+  Precedes(chase);
+}
+

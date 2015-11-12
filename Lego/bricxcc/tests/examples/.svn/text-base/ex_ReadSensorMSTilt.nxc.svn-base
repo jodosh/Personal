@@ -1,0 +1,2 @@
+byte x, y, z;
+bool result = ReadSensorMSTilt(S1, MS_ADDR_ACCLNX, x, y, z);

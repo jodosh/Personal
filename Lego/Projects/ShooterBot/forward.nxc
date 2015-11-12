@@ -1,0 +1,29 @@
+void turnRight(long deg)
+{
+  OnRev(OUT_BC,0);
+  RotateMotor(OUT_C,70,(9*deg));
+  OnRev(OUT_BC,0);
+}
+
+void turnLeft(long deg)
+{
+  OnRev(OUT_BC,0);
+  RotateMotor(OUT_B,70,(9*deg));
+  OnRev(OUT_BC,0);
+}
+
+
+task main()
+{
+		/* Display Next Action */
+		ClearScreen();
+		TextOut(0,LCD_LINE1,"Hello");
+
+		OnFwd(OUT_BC,50);
+		Wait(1000);
+		OnRev(OUT_BC,50);
+		Wait(1000);
+		OnRev(OUT_BC,0);
+		turnRight(90);
+		turnLeft(45);
+}

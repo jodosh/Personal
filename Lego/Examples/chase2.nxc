@@ -1,0 +1,40 @@
+
+int a;
+task around()
+{
+  while(true) {
+    RotateMotor(OUT_A, 30, 360);
+    RotateMotor(OUT_A, 30, -360);
+  }
+}
+
+task chase()
+{
+
+  int theta;
+  int beta;
+  
+  SetSensorLowspeed(IN_4);
+  while(true) {
+    a=SensorUS(IN_4);
+    ClearScreen();
+    NumOut(1,1,a);
+    if(a > 1) {
+      if(a < 20) {
+        theta=MotorRotationCount(OUT_A);
+        if(theta < 180) {
+          beta = theta * 4821 / 1000;
+          RotateMotor(OUT_B, 50, beta);
+        }
+      }
+    }
+
+
+  }
+}
+
+task main()
+{
+  Precedes(around, chase);
+}
+

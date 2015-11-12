@@ -1,0 +1,3 @@
+SUBSYSTEM=="usb_device", ACTION=="add", SYSFS{idVendor}=="0694", 
+SYSFS{idProduct}=="0002", SYMLINK+="legonxt-%k", GROUP="legonxt", MODE="0660", RUN+="/etc/udev/legonxt.sh"
+

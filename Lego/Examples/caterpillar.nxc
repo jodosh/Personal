@@ -1,0 +1,21 @@
+#define PFC8574addr 0x40
+#define port IN_1
+
+
+byte buf[]={PFC8574addr, 0};
+int i;
+
+task main ()
+{
+  SetSensorLowspeed (port);
+  
+  while (true)
+  {
+    for(i=1; i<0x100; i<<=1)
+    {
+      buf[1] = i ^ 0xff;
+      LowspeedWrite(port, 0, buf);
+      Wait (300);
+    }
+  }
+}

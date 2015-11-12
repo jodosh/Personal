@@ -1,0 +1,11 @@
+int a=40;
+
+task main ()
+{
+  TextOut(0, 60, "testing");
+  Wait(2000);
+  NumOut(a/2, a-10, a);
+  Wait(10000);
+}
+
+

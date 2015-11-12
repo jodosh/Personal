@@ -1,0 +1,21 @@
+#define PCF8574 0x40
+#define port IN_1
+
+byte bufout[]={PCF8574, 0xff};
+byte dummy_bufin[];
+int i;
+int nbytes=0;
+
+task main()
+{
+  SetSensorLowspeed (port);
+  while(true)
+  {
+    for(i=1; i<0x100; i<<=1)
+    {
+      bufout[1] = i ^ 0xff
+      I2CBytes(port, bufout, nbytes, dummy_bufin);
+      Wait(200);
+    }
+  }
+}

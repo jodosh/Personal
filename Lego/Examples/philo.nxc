@@ -1,0 +1,14 @@
+int a;
+task main ()
+{
+   SetSensorLowspeed (S1);
+   while (true)
+   {
+     a = SensorUS (S1);
+     ClearScreen();
+     TextOut (0, 20, "x-tilt");
+     NumOut (20, 10, a);
+   }
+}
+
+

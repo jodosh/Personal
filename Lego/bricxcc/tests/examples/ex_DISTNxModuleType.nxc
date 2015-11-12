@@ -1,0 +1,1 @@
+int modtype = DISTNxModuleType(S1, MS_ADDR_DISTNX);

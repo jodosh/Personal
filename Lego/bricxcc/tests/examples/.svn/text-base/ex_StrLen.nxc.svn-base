@@ -1,0 +1,5 @@
+task main()
+{
+  string msg = "hi there";
+  byte x = strlen(msg); // return the length of msg
+}

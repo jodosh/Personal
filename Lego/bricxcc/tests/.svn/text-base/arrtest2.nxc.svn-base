@@ -1,0 +1,41 @@
+string myFunc(int x) {
+  string retval = NumToStr(x);
+  retval = "Value = " + retval;
+  return retval;
+}
+
+struct color {
+ byte r;
+ byte g;
+ byte b;
+};
+
+color newColor(byte r, byte g, byte b)
+{
+  color retval;
+  retval.r = r;
+  retval.g = g;
+  retval.b = b;
+  return retval;
+}
+
+task main()
+{
+  string msgs[2];
+  msgs[0] = myFunc(0);
+  msgs[1] = myFunc(1);
+  color myColors[2];
+  color tmpColors[3];
+  color tmpColor;
+  color tmp2;
+  tmpColor = newColor(40, 40, 40);
+  myColors[0] = newColor(10, 10, 10); // works as of 2009-12-29
+  tmp2 = tmpColor;
+  myColors[1] = tmpColor;
+  myColors[0] = newColor(80, 40, 0); // works as of 2009-12-29
+  myColors[1].g = 20; // works as of 2009-12-29
+  myColors[1] = myColors[0]; // works as of 2009-12-29
+  myColors[1].g = myColors[0].b; // works
+  myColors = tmpColors;
+}
+

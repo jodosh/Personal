@@ -1,0 +1,34 @@
+float foobar=123.456;
+
+float MyFunction(float x)
+{
+  return x*2.5;
+}
+
+float NegInv(int x,int y) {
+  return abs(x - y) / 100.0;
+}
+
+task main()
+{
+  string msg;
+  unsigned long my_long = 22;
+  float my_float=foobar*2.4/PI + (my_long % 5) - MyFunction(12.8);
+  NumOut(0, LCD_LINE1, my_float);
+  msg = NumToStr(my_float);
+  byte result = TextOut(0, LCD_LINE2, msg);
+  NumOut(0, LCD_LINE3, result);
+  NumOut(0, LCD_LINE4, NegInv(my_long, 48));
+
+  float test;
+  int tmp = -1;
+  test = tmp;
+  NumOut(0, LCD_LINE5, test);
+  test = -1.5;
+  tmp = test;
+  NumOut(0, LCD_LINE6, tmp);
+  float values[] = {1, 0, 1};
+  values = !values;
+  NumOut(0, LCD_LINE7, values[0]);
+  while(true);
+}

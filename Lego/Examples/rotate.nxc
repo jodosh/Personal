@@ -1,0 +1,14 @@
+char i;
+short w;
+task main()
+{
+    RotateMotor( OUT_C, 30, -90 );
+    Wait(200);
+    for (i=-90; i<90; i+=45) {
+        RotateMotor( OUT_C, 30,  45 );
+      Wait(200);
+    }
+    w = Sensor(IN_1);
+    RotateMotor( OUT_C, 30, -90 );
+}
+

@@ -1,0 +1,46 @@
+// Draws a block letter F on the NXT display, inverts and re-draws, and 
+// then re-inverts and re-draws once more.
+// Tests sone 2-D array features and some rectangle drawing components of 
+// the NXC graphics API.
+
+// Verified by MG 2009-02-14
+// Next Byte Codes Compiler 1.0.1.36, built Wed Feb 11 2009
+
+// #define TONE // Comment out to suppress tones
+
+#define INVERT_ALL DRAW_OPT_NORMAL | DRAW_OPT_LOGICAL_XOR | DRAW_OPT_FILL_SHAPE
+
+// The rows of following array are the parameters of the rectangles that, 
+// when drawn, will display a block letter F on the NXT display. Each row 
+// vector has the form {x, y, width, height}.
+int rectangles[][] = {{31, 7, 17, 51}, {47, 44, 30, 14}, {47, 21, 24, 15}};
+
+void InvertScreen()
+{
+   RectOut(0, 0, DISPLAY_WIDTH, DISPLAY_HEIGHT, INVERT_ALL);
+#ifdef TONE
+   PlayTone(512, SEC_1);
+#endif
+   Wait(SEC_1);
+}
+
+void DrawLetterF(int rects[][])
+{
+   int rows = ArrayLen(rects);
+   unsigned long options = DRAW_OPT_NORMAL | DRAW_OPT_FILL_SHAPE;
+   for (int i = 0; i < rows; ++i)
+   {
+      RectOut(rects[i][0], rects[i][1], rects[i][2], rects[i][3], options);
+   }
+#ifdef TONE
+   PlayTone(1024, SEC_1);
+#endif
+   Wait(SEC_1);
+}
+
+task main()
+{
+   DrawLetterF(rectangles); // black letter on white background
+   InvertScreen(); // white letter on black background
+   InvertScreen(); // black letter on black background
+}

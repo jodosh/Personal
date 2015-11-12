@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svnroot/bricxcc/!svn/ver/394/grep
+END
+uGrepPrinting.pas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/bricxcc/!svn/ver/240/grep/uGrepPrinting.pas
+END
+uGrepOptions.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/240/grep/uGrepOptions.pas
+END
+uReplace.pas
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/bricxcc/!svn/ver/394/grep/uReplace.pas
+END
+uGrepReplace.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/240/grep/uGrepReplace.dfm
+END
+uGrepResultsOptions.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/240/grep/uGrepResultsOptions.dfm
+END
+uGrepRegExSearch.pas
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/240/grep/uGrepRegExSearch.pas
+END
+uGrepResults.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/241/grep/uGrepResults.pas
+END
+uGrepSearch.pas
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/241/grep/uGrepSearch.pas
+END
+uGrepExpert.pas
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/241/grep/uGrepExpert.pas
+END
+uGrepCommonUtils.pas
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/bricxcc/!svn/ver/389/grep/uGrepCommonUtils.pas
+END
+RegExpr.pas
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/bricxcc/!svn/ver/240/grep/RegExpr.pas
+END
+uGrepReplace.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/240/grep/uGrepReplace.pas
+END
+uGrepResultsOptions.pas
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/bricxcc/!svn/ver/240/grep/uGrepResultsOptions.pas
+END
+uGrepOptions.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/240/grep/uGrepOptions.dfm
+END
+uGrepResults.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/241/grep/uGrepResults.dfm
+END
+uGrepBackend.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/bricxcc/!svn/ver/241/grep/uGrepBackend.pas
+END
+uGrepSearch.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/bricxcc/!svn/ver/241/grep/uGrepSearch.dfm
+END

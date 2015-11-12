@@ -1,0 +1,22 @@
+task main()
+{
+	SetSensor(IN_1, SENSOR_TOUCH);
+	SetSensor(IN_4, SENSOR_TOUCH);
+	while (true)
+	{
+		if (SENSOR_1 == 1 && SENSOR_4==1) //forward
+			OnRev(OUT_AC,70);
+		if (SENSOR_1 == 1 && SENSOR_4==0)
+		{
+			OnRev(OUT_A,70);
+			OnRev(OUT_C,70);
+		}
+		if (SENSOR_1 == 0 && SENSOR_4==1)
+		{
+			OnRev(OUT_C,70);
+			OnRev(OUT_A,70);
+		}
+		if (SENSOR_1 == 0 && SENSOR_4==0) //stop
+			OnFwd(OUT_AC,0);
+	}
+} 

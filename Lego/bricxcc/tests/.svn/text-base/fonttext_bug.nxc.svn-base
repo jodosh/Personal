@@ -1,0 +1,5 @@
+task main(){
+  string filename="segoescr12.ric";
+  FontTextOut(0, 40, filename, "@This is a test! 123.45");
+  Wait(SEC_10);
+}

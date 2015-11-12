@@ -1,0 +1,18 @@
+int a = 50;
+
+void George(int y, byte b, string msg)
+{
+  TextOut(10, y*b, msg);
+  y = y*b+a;
+  SetSoundFrequency(y);
+}
+
+task main()
+{
+  string foo = "testing";
+  int a=10;
+  byte c=3;
+  George(a, c, foo);
+}
+
+
