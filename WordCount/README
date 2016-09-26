@@ -1,0 +1,1 @@
+Sample python program to be passed a file and a number and return that number of the most common words in the file. This is case insensitive, and it does account for trailing punctuation ("happy", "Happy", "happy." are all the same word) 
