@@ -4,6 +4,7 @@
 #v0.0.1
 
 import sys
+import re
 from collections import Counter
 
 useageText="""\n\nThis program reads a text file and prints the most common words in it\n
@@ -26,32 +27,24 @@ try:
 except:
     print(useageText)
     exit()
-    
-words = []    
+     
 
 #Verify that 1st param is a path to a file, 
-#if so create array of all lines in the file
 try:
     with open(str(sys.argv[1])) as f:
-        lines= f.readlines()
+        fileContents= f.read()
 except (IOError) as e:
     print(useageText)
     print e
     exit()
 
-#for each line split into words based on white space
-#then slice off trailing punctuation
-#finally convert to lowercase and save in an array of words
-for line in lines:
-    lineArray = line.split()
-    for word in lineArray:
-        while word and not word[-1].isalpha():
-            word = word[:-1]
-        if word != '':
-            words.append(word.lower())
-        
-#save array of most common words and their count
-sortedWords = Counter(words).most_common(numberOfWords)
+
+#regex to find one or more "word characters" (letters) surrounded by start and end of string
+words = re.findall(r'\w+', fileContents)
+
+lcWords = [word.lower() for word in words]
+
+sortedWords = Counter(lcWords).most_common(numberOfWords)
 
 for commonWord in sortedWords:
     print(commonWord)
