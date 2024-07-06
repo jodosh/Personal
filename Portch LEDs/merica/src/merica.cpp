@@ -33,8 +33,8 @@ CRGB leds_left[NUM_LEDS_LEFT];
 AsyncWebServer server(80);
 
 // REPLACE WITH YOUR NETWORK CREDENTIALS
-const char* ssid = "HfWi";
-const char* password = "handrust";
+const char* ssid = "$ENTERSSID";
+const char* password = "$ENTERPASSWORD";
 
 const char* PARAM_STRING = "inputString";
 const char* PARAM_ON = "inputOn";
