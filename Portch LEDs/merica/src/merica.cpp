@@ -33,8 +33,8 @@ CRGB leds_left[NUM_LEDS_LEFT];
 AsyncWebServer server(80);
 
 // REPLACE WITH YOUR NETWORK CREDENTIALS
-const char* ssid = "$ENTERSSID";
-const char* password = "$ENTERPASSWORD";
+const char* ssid = "HfWi";
+const char* password = "handrust";
 
 const char* PARAM_STRING = "inputString";
 const char* PARAM_ON = "inputOn";
@@ -216,13 +216,13 @@ void loop() {
       digitalWrite(2, HIGH);
       for(int i=0; i <= NUM_LEDS; i++)
       {
-        if ((i/5)%3 == 0)
+        if ((i/44)%3 == 0)
         {
           r=255;
           g=0;
           b=0;
         }
-        else if ((i/5)%3 == 1)
+        else if ((i/44)%3 == 1)
         {
           r=255;
           g=255;

@@ -23,9 +23,9 @@
 #include <sstream>
 #include <FastLED.h>
 #define LED_PIN 13
-#define NUM_LEDS 150
-#define LED_PIN_LEFT 13
-#define NUM_LEDS_LEFT 50
+#define NUM_LEDS 234
+#define LED_PIN_LEFT 12
+#define NUM_LEDS_LEFT 88
 
 CRGB leds[NUM_LEDS];
 CRGB leds_left[NUM_LEDS_LEFT];
