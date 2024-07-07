@@ -25,7 +25,8 @@
 #define LED_PIN 13
 #define NUM_LEDS 234
 #define LED_PIN_LEFT 12
-#define NUM_LEDS_LEFT 88
+#define NUM_LEDS_LEFT 84
+//#define NUM_LEDS_LEFT 50
 
 CRGB leds[NUM_LEDS];
 CRGB leds_left[NUM_LEDS_LEFT];
@@ -33,8 +34,8 @@ CRGB leds_left[NUM_LEDS_LEFT];
 AsyncWebServer server(80);
 
 // REPLACE WITH YOUR NETWORK CREDENTIALS
-const char* ssid = "$ENTERSSID";
-const char* password = "$ENTERPASSWORD";
+const char* ssid = "$$$$$$$";
+const char* password = "$$$$$$$$$";
 
 const char* PARAM_STRING = "inputString";
 const char* PARAM_ON = "inputOn";
@@ -205,49 +206,48 @@ void loop() {
   String isOn = readFile(SPIFFS, "/inputOn.txt");
   if (isOn == "ON")
   {
-    String yourInputString = readFile(SPIFFS, "/inputString.txt");
-    r = atoi(readFile(SPIFFS, "/r.txt").c_str());
-    g = atoi(readFile(SPIFFS, "/g.txt").c_str());
-    b = atoi(readFile(SPIFFS, "/b.txt").c_str());
-    Serial.print("*** Your inputString: ");
-    Serial.println(yourInputString);
-    if (yourInputString!="")
-    {
-      digitalWrite(2, HIGH);
-      for(int i=0; i <= NUM_LEDS; i++)
+    digitalWrite(2, HIGH);
+    for (int ledCount = 0; ledCount<132; ledCount++)
+    {      
+      for(int i=0; i < NUM_LEDS; i++)
       {
-        if ((i/44)%3 == 0)
+        switch (((i+ledCount)/44)%3)
         {
+        case 0:
           r=255;
           g=0;
           b=0;
-        }
-        else if ((i/44)%3 == 1)
-        {
+          break;
+
+        case 1:
           r=255;
           g=255;
           b=255;
-        }
-        else
-        {
+          break;
+                  
+        default:
           r=0;
           g=0;
           b=255;
+          break;
         }
         leds[i].setRGB(r,g,b);
         if (i<NUM_LEDS_LEFT)
         {
-          leds_left[i].setRGB(r,g,b);
+          leds_left[i].setRGB(255,0,0);
         }
       }
       FastLED.show();
+      FastLED.clear();
+      delay(25);
     }
+    
   }
   else
   {
     digitalWrite(2, LOW);
-    FastLED.clear();
+    FastLED.clear(true);
     FastLED.show();
-  }
-  delay(5000);
+    delay(5000);
+  }  
 }
